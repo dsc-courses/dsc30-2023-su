@@ -55,6 +55,24 @@ summary {
       margin-top: 1em;
     }
   }
+
+  .footnotes {
+    @extend .fs-3, .mt-5;
+
+    &:before {
+      @extend .text-delta;
+
+      content: "References"
+    }
+
+    p {
+      margin: 0;
+    }
+
+    ol > li::before {
+      top: 0;
+    }
+  }
 }
 
 .search {
