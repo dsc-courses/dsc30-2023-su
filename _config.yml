@@ -25,10 +25,9 @@ google_site_verification: 'QclY_1udbdKts462GzFHLmFoaioICIQ16kjZumjRJIg'
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.3
 color_scheme: light
-search_enabled: false
+search_enabled: true
 heading_anchors: true
 permalink: pretty
-footer_content:
 back_to_top: true
 back_to_top_text: Back to top
 footer_content: 'Kevin Lin &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
