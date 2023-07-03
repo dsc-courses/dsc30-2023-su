@@ -126,7 +126,7 @@ If you're instead seeing a "Cannot start compiler" notification with a suggestio
 
 If IntelliJ detected an existing Java SDK, it will be listed under **Detected SDKs**.
 
-- If an SDK version 11 or greater is available, select it.
+- If an SDK version 17 or greater is available, select it.
 - Otherwise, select **Add SDK \| Download JDK** and choose the latest from any vendor.
 
 Click **OK** and try running `BrowserHistory` again. It should work now!
