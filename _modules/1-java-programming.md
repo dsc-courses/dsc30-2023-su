@@ -4,7 +4,7 @@ title: Java Programming
 
 7/3
 : **Hello World**
-  : [Java Tutorial](https://cse12x.github.io/java-tutorial/)
+  : [Java Tutorial](https://cse12x.github.io/java-tutorial/) · [Code](https://gist.github.com/kevinlin1/84ab2025f9508b0888fc4ad611a30b3c)
 
 7/4
 : Holiday
