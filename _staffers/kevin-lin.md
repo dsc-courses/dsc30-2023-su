@@ -1,7 +1,7 @@
 ---
 name: Kevin Lin
 role: Instructor
-email: me@example.com
+email: kevinl@cs.uw.edu
 website: https://kevinl.info
 photo: kevin-lin.webp
 pronouns: he/him
