@@ -107,20 +107,20 @@ Expect to spend 4 hours in class and 8 hours outside of class working on this co
 Grading in this course encourages learning through deliberate practice by emphasizing revision and resubmission of work. Most of the coursework is designed around feedback loops where you try something, get feedback, then try again. Grades are based on what you eventually learn through this process.
 
 C level work
-: Completion of most requirements in the **Java** module.
-: Completion of most requirements in the **Deques** module.
-: Completion of most requirements in the **Autocomplete** module.
+: Completion of most requirements in the **Java Programming** module.
+: Completion of most requirements in the **Linear Collections** module.
+: Completion of most requirements in the **Sorting and Searching** module.
 
 B level work
-: Completion of most requirements in the **Java** module.
-: Completion of most requirements in the **Deques** module.
-: Completion of most requirements in the **Autocomplete** module.
-: Completion of most requirements in the **Priority Queues** module.
+: Completion of most requirements in the **Java Programming** module.
+: Completion of most requirements in the **Linear Collections** module.
+: Completion of most requirements in the **Sorting and Searching** module.
+: Completion of most requirements in the **Associative Collections** module.
 : Completion of most requirements in the **Portfolio** module.
 
 A level work
-: Completion of **all** requirements in the **Java** module.
-: Completion of **all** requirements in the **Deques** module.
-: Completion of **all** requirements in the **Autocomplete** module.
-: Completion of **all** requirements in the **Priority Queues** module.
+: Completion of **all** requirements in the **Java Programming** module.
+: Completion of **all** requirements in the **Linear Collections** module.
+: Completion of **all** requirements in the **Sorting and Searching** module.
+: Completion of **all** requirements in the **Associative Collections** module.
 : Highest marks across all parts of the **Portfolio**.
