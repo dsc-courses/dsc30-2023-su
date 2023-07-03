@@ -10,6 +10,7 @@ title: Linear Collections
 
 7/12
 : **Reference Semantics**
+: **P1**{: .label .label-purple }[**Deques**]({{ site.baseurl }}{% link projects/deques.md %}) due 7/19
 
 7/13
 : **Linked Lists**

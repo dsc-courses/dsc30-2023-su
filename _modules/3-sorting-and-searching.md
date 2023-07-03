@@ -10,6 +10,7 @@ title: Sorting and Searching
 
 7/19
 : **Recursive Sorts**
+: **P2**{: .label .label-purple }[**Autocomplete**]({{ site.baseurl }}{% link projects/autocomplete.md %}) due 7/26
 
 7/20
 : **Search Trees**
