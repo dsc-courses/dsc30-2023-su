@@ -3,7 +3,7 @@ title: Java Programming
 ---
 
 7/3
-: **Hello, world**
+: **Hello, World**
 
 7/4
 : Holiday
