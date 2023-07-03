@@ -82,7 +82,7 @@ On your own before class, prepare for learning by completing the pre-class prepa
 : In Canvas, open the weekly **Lessons** and add an annotation or reply to an annotation.
 > Lessons are designed to introduce all the concepts for the entire week's classes.
 
-In your team during class and quiz section, collaborate on the in-class guided practice.
+In your team during class, collaborate on the in-class guided practice.
 : In Canvas, tutors will observe your learning and record your **Teamwork**.
 > Class meetings are designed to deepen and connect ideas across the course.
 
