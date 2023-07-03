@@ -26,6 +26,8 @@ google_site_verification: 'QclY_1udbdKts462GzFHLmFoaioICIQ16kjZumjRJIg'
 remote_theme: just-the-docs/just-the-docs@v0.5.3
 color_scheme: light
 search_enabled: true
+search:
+  heading_level: 3
 heading_anchors: true
 permalink: pretty
 back_to_top: true
