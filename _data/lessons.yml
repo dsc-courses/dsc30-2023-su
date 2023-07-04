@@ -1,3 +1,15 @@
+Dynamic Arrays:
+  Objectives:
+    - Design abstractions that hide internal implementation details from clients.
+    - Explain the class invariants for the dynamic array data structure.
+    - Write a unit test representing a test case involving a single program.
+
+Linked Nodes:
+  Objectives:
+    - Trace the execution of a program with primitive types and reference types.
+    - Define methods that manipulate nodes at the beginning and end of a list.
+    - Write a unit test for comparing the output of two programs.
+
 Asymptotic Analysis:
   Objectives:
     - Compare and contrast runtime analysis, asymptotic analysis, and case analysis.
