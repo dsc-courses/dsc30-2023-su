@@ -15,3 +15,4 @@ title: Associative Collections
 7/27
 : **Affordance Analysis**
 : **DI**{: .label }**Associative Collections**
+: **A3**{: .label .label-yellow }**Assessment 3** due 7/31

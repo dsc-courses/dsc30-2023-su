@@ -15,3 +15,4 @@ title: Sorting and Searching
 7/20
 : **Search Trees**
 : **DI**{: .label }**Sorting and Searching**
+: **A2**{: .label .label-yellow }**Assessment 2** due 7/24
