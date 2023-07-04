@@ -4,6 +4,7 @@ title: Portfolio
 
 7/31
 : **Graph Traversals**
+: **A3**{: .label .label-yellow }**Assessment 3** due 8/3
 
 8/1
 : **System Design**
