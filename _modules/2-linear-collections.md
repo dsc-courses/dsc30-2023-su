@@ -15,4 +15,4 @@ title: Linear Collections
 
 7/13
 : **Iterative Sorts**
-: **DI**{: .label }**Linear Collections**
+: **D1**{: .label }**Linear Collections**
