@@ -151,6 +151,9 @@ def is_foo(n):
 
 Assume the arguments `start` and `end` will be integers.
 
+{: .deliverable }
+Explain how you converted the Python `range` function into Java `for` loops.
+
 ### An ancient algorithm
 
 > In mathematics, the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) is an ancient algorithm for finding all prime numbers up to any given limit.
@@ -163,15 +166,21 @@ Assume the arguments `start` and `end` will be integers.
 
 In the `Sieve` class, write a Java implementation for `sieve` that takes as input 2 integer arguments: `start` and `end`. The method should return an integer array containing the primes in the interval `[start, end)`. In other words, `start` is included in the range but `end` is not. If `end` is less than or equal to `start`, return an empty array.
 
+{: .deliverable }
+Explain the part of the `Sieve` class that you're most proud of programming.
+
 ### Common prefixes
 
-Suppose you're designing a file organization system that automatically groups files under a certain label. The common prefix among a group of filenames can be used to create a hierarchy or grouping of the files, making it easier for users to navigate and find desired files. For example, if a group of files have the names `accounting_january.xlsx`, `accounting_february.xlsx`, and `accounting_march.xlsx`, the common prefix among all three of these names is `accounting_`, so these files could be grouped together under a folder named `accounting`.
+Suppose you're designing a file organization system that automatically groups files under a certain label. The common prefix among a group of filenames can be used to create a hierarchy or grouping of the files, making it easier for users to navigate and find desired files. For example, if a group of files have the names `accounting_jan.xlsx`, `accounting_feb.xlsx`, and `accounting_mar.xlsx`, the common prefix among all three of these names is `accounting_`, so these files could be grouped together under a folder named `accounting`.
 
 In the `CommonPrefixes` class, implement the `findCommonPrefixes` method that takes an array of strings and returns the longest common prefix among all the given strings. If there is no common prefix among all the strings, return an empty string.
 
+{: .deliverable }
+Explain the part of the `CommonPrefixes` class that you're most proud of programming.
+
 ## Test
 
-Write at least two test cases for `findCommonPrefixes` in a single test function. To create a test function:
+To create a test function:
 
 1. In the editor, move your cursor to the class that you'd like to test. Then, press `Alt+Enter` and select **Create Test**.
 1. In the **Create Test** dialog, select the library **JUnit5** and fix the problem by using the latest stable version of JUnit (5.9.3 at the time of writing).
@@ -179,4 +188,8 @@ Write at least two test cases for `findCommonPrefixes` in a single test function
 
 <video controls muted class="module full-width" style="aspect-ratio: 1580/904"><source src="https://resources.jetbrains.com/help/img/idea/2023.1/create-test.mp4" type="video/mp4"></video>
 
-Test the `sieve` by iterating over valid inputs for `start` and `end` with value less than 100 and comparing the result to your `foo` function, which also computes all the prime numbers in the same interval.
+{: .deliverable }
+Write at least two test cases for `findCommonPrefixes` in a single test function.
+
+{: .deliverable}
+Write a test case for the `sieve` by iterating over all valid inputs for `start` and `end` less than 100 and then comparing the result to your `foo` function, which also computes all the prime numbers within the same interval.
