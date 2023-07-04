@@ -12,6 +12,7 @@ title: Java Programming
 7/5
 : **Java Tutorial**
   : [HFJ][] 7--12, 50--62, 71--79, 83--86
+: **P0**{: .label .label-purple }[**Primer**]({{ site.baseurl }}{% link projects/primer.md %}) due 7/12
 
 7/6
 : **Object-Oriented Programming**
