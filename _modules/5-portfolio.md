@@ -10,6 +10,7 @@ title: Portfolio
 
 8/2
 : **Iterative Design**
+: **P4**{: .label .label-purple }[**Shortest Paths**]({{ site.baseurl }}{% link projects/shortest-paths.md %}) optional
 
 8/3
 : **Conclusion**
