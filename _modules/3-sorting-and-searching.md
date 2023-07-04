@@ -4,7 +4,7 @@ title: Sorting and Searching
 
 7/17
 : **Recursive Sorts**
-: **A1**{: .label .label-yellow }**Assessment 1** due 7/20
+: **A1**{: .label .label-yellow }[**Assessment 1**]({{ site.baseurl }}{% link assessments/1.md %}) due 7/20
 
 7/18
 : **Search Trees**

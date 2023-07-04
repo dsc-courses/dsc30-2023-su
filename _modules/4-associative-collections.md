@@ -4,7 +4,7 @@ title: Associative Collections
 
 7/24
 : **Left-Leaning Red-Black Trees**
-: **A2**{: .label .label-yellow }**Assessment 2** due 7/27
+: **A2**{: .label .label-yellow }[**Assessment 2**]({{ site.baseurl }}{% link assessments/2.md %}) due 7/27
 
 7/25
 : **Binary Heaps**
