@@ -54,50 +54,11 @@ We do not ask for your code. Given enough time and support, we're certain you wo
 
 ## Setup
 
-Before we proceed, you'll need to install and setup two pieces of software. If you run into any issues with the setup procedure, let the instructor know by posting on the discussion board. The installation process can be quite sensitive to the specific configuration of your computer, so it's best to let the instructor know when something doesn't go as expected.
-
-### Install Git
-
-Git is a **version control system** (VCS), a tool for distributing, managing, and sharing code with other people. Install Git by following the instructions according to your computer's operating system.
-
-Windows
-: [Download and install Git](https://git-scm.com/download/win). All the default settings will work.
-
-macOS
-: From Finder, navigate to **Application \| Utilities \| Terminal**. Type `git --version` into the terminal and press `Enter`. If you see a download prompt, follow the instructions.
-
-ChromeOS
-: At the bottom right, select the time. Then, select **Settings \| Advanced \| Developers** and **Turn On** the Linux development environment. Finally, follow the Linux instructions for all remaining setup.
-
-Linux
-: Install `git` using your package manager. On Debian, Ubuntu, or other apt-managed systems, type `sudo apt install git` into the terminal and press `Enter`.
-
-{: .hint }
-The `sudo` command may require a password prompt. When you type into the password prompt, nothing will appear. This is a security feature: your typing is intentionally hidden!
-
-### Install IntelliJ
-
-[Download and install the latest version of IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) for your computer's operating system. IntelliJ is an integrated development environment that is helpful for writing complex programs that span multiple Java classes. Open the [Standalone installation](https://www.jetbrains.com/help/idea/installation-guide.html#standalone) guide, select your computer's operating system, and follow the steps.
-
-Once IntelliJ is installed, [run IntelliJ IDEA](https://www.jetbrains.com/help/idea/run-for-the-first-time.html) and select **Skip Remaining and Set Defaults**. Once you've finished the setup, you should see the **Welcome to IntelliJ IDEA** screen.
-
-![Welcome screen](https://resources.jetbrains.com/help/img/idea/2023.1/ij_welcome_window.png)
-
-Next, we have a few more setup steps before we can proceed with obtaining the project code. From the **Welcome to IntelliJ IDEA** screen:
-
-1. In the banner at the bottom, choose **Enable New UI**. This might require a restart.
-1. In the left sidebar, select **Plugins**, search for "jGRASP" in the marketplace, and then install the **jGRASP** plugin.
-1. In the space at the bottom, choose **Start Tour** and complete the first chapter of the onboarding tour.
-
-### Obtain and run project code
-
-From the **Welcome to IntelliJ IDEA** screen, select **Projects** from the sidebar and then **Get from VCS**. Paste the following URL, choose a place to enter, and clone the project code repository.
+Additional setup is required for this project. With IntelliJ opened to the Primer project, select the hamburger menu and choose **File \| New \| Project from Version Control** and paste the following URL.
 
 ```
 https://github.com/kevinlin1/deques.git
 ```
-
-The first time you open the project, IntelliJ will ask you whether to [trust the project](https://www.jetbrains.com/help/idea/project-security.html). Choose **Trust Project** so that IntelliJ has your permission to run code.
 
 After a few seconds, IntelliJ will open the main editor screen. Let's try running a class in IntelliJ:
 
@@ -114,23 +75,6 @@ If you see the following output in the run tool window, you're all set!
 ucsd.edu mytritonlink.ucsd.edu datascience.ucsd.edu canvas.ucsd.edu
 datascience.ucsd.edu blink.ucsd.edu
 ```
-
-Most of the project design and implementation work will happen in the **deques** folder nested within the **src** folder, so try opening the `ArrayDeque` class to get started.
-
-<details markdown="block">
-<summary>My computer doesn't display the expected output!</summary>
-
-If you're instead seeing a "Cannot start compiler" notification with a suggestion to configure the Project SDK. Follow the link in the notification, or from the main menu select **File \| Project Structure**. In the **Project Structure** window, open the **SDK** dropdown.
-
-![Change the project SDK](https://resources.jetbrains.com/help/img/idea/2022.3/sdks_project_structure_project.png)
-
-If IntelliJ detected an existing Java SDK, it will be listed under **Detected SDKs**.
-
-- If an SDK version 17 or greater is available, select it.
-- Otherwise, select **Add SDK \| Download JDK** and choose the latest from any vendor.
-
-Click **OK** and try running `BrowserHistory` again. It should work now!
-</details>
 
 ## Deque interface
 
