@@ -3,7 +3,7 @@ title: Portfolio
 ---
 
 7/31
-: **Graphs**
+: **Graph Traversals**
 
 8/1
 : **System Design**
