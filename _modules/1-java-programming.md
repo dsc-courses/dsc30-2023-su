@@ -16,6 +16,6 @@ title: Java Programming
 
 7/6
 : **Object-Oriented Programming**
-: **DI**{: .label }Java Programming
+: **DI**{: .label }**Java Programming**
 
 [HFJ]: https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf

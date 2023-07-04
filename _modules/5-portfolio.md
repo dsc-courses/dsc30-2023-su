@@ -14,4 +14,4 @@ title: Portfolio
 
 8/3
 : **Conclusion**
-: **DI**{: .label }Portfolio
+: **DI**{: .label }**Portfolio**

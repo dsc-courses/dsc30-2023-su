@@ -14,4 +14,4 @@ title: Associative Collections
 
 7/27
 : **Affordance Analysis**
-: **DI**{: .label }Associative Collections
+: **DI**{: .label }**Associative Collections**

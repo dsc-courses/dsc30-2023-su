@@ -14,4 +14,4 @@ title: Linear Collections
 
 7/13
 : **Linked Lists**
-: **DI**{: .label }Linear Collections
+: **DI**{: .label }**Linear Collections**

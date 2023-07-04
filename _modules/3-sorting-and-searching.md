@@ -14,4 +14,4 @@ title: Sorting and Searching
 
 7/20
 : **Search Trees**
-: **DI**{: .label }Sorting and Searching
+: **DI**{: .label }**Sorting and Searching**
