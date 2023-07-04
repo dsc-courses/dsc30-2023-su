@@ -73,7 +73,10 @@ The `sudo` command may require a password prompt. When you type into the passwor
 
 ### Install IntelliJ
 
-[Download and install the latest version of IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) for your computer's operating system. IntelliJ is an integrated development environment that is helpful for writing complex programs that span multiple Java classes. Open the [Standalone installation](https://www.jetbrains.com/help/idea/installation-guide.html#standalone) guide, select your computer's operating system, and follow the steps.
+IntelliJ is an integrated development environment that is the most recommended software for writing Java programs. Follow the [Standalone installation](https://www.jetbrains.com/help/idea/installation-guide.html#standalone) guide for your computer's operating system: [Windows](https://www.jetbrains.com/help/idea/installation-guide.html#6ac878e7), [macOS](https://www.jetbrains.com/help/idea/installation-guide.html#c1231e1f), or [Linux](https://www.jetbrains.com/help/idea/installation-guide.html#efd790b5).
+
+{: .warning }
+When downloading IntelliJ, we only need the completely free IntelliJ IDEA Community Edition. The [download site](https://www.jetbrains.com/idea/download/) promotes IntelliJ IDEA Ultimate; scroll down to find IntelliJ IDEA Community Edition. If you already have IntelliJ installed, be sure to update it to the latest version before proceeding.
 
 Once IntelliJ is installed, [run IntelliJ IDEA](https://www.jetbrains.com/help/idea/run-for-the-first-time.html) and select **Skip Remaining and Set Defaults**. Once you've finished the setup, you should see the **Welcome to IntelliJ IDEA** screen.
 
