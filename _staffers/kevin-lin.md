@@ -1,7 +1,7 @@
 ---
 name: Kevin Lin
 role: Instructor
-email: kevinl@cs.uw.edu
+email: kel068@ucsd.edu
 website: https://kevinl.info
 photo: kevin-lin.webp
 pronouns: he/him
