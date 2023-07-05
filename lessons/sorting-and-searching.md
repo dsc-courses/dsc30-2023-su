@@ -144,11 +144,6 @@ In our study of sorting algorithms, we learned that a sorting algorithm is consi
 Stable system sort
 : When sorting an array of objects (like emails), Java uses a sorting algorithm called **Timsort**, which is based on an iterative variant of merge sort and has the same linearithmic worst-case runtime as recursive merge sort.
 
-{: .note }
-> Timsort is a _hybrid sort_ that combines ideas from merge sort with insertion sort. Experimental analysis reveals that the fastest sorting algorithm for small arrays is often insertion sort. Instead of merge sort's base case of 1 element, Java Timsort uses a base case of 32 elements which are then insertion sorted. Insertion sort can be further sped up by using binary search to find the insertion point for the next unsorted element.
->
-> Timsort is also an _adaptive sort_ that changes behavior depending on the input array. Many real-world arrays are not truly random. They often contain _natural runs_, or sorted subsequences of elements that could be efficiently merged. Rather than recursively dividing top-down, Timsort works bottom-up by identifying natural runs in the input array and combining them from left to right.
-
 Unstable system sort
 : When sorting an array of numbers or booleans, Java uses a sorting algorithm called **quicksort**. Quicksort has many variants; we'll focus on **single-pivot quicksort** in this course.
 

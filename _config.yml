@@ -36,8 +36,6 @@ footer_content: 'Kevin Lin &copy; 2023 <a rel="license" href="http://creativecom
 enable_copy_code_button: true
 
 callouts:
-  note:
-    color: grey-lt
   hint:
     title: Hint
     color: yellow
