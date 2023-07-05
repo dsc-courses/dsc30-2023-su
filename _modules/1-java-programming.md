@@ -5,13 +5,15 @@ title: Java Programming
 7/3
 : **Hello World**
   : [Code](https://gist.github.com/kevinlin1/84ab2025f9508b0888fc4ad611a30b3c)
+: [HFJ](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf) 7--12, 50--62, 71--79, 83--86
 
 7/4
 : Holiday
 
 7/5
-: [**Java Tutorial**](https://cse12x.github.io/java-tutorial/) ([Handout]({{ site.baseurl }}{% link assets/pdf/java-tutorial.pdf %}))
-  : [HFJ](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf) 7--12, 50--62, 71--79, 83--86
+: [**Java Tutorial**](https://cse12x.github.io/java-tutorial/)
+  : [Slides]({{ site.baseurl }}{% link assets/pdf/java-tutorial.pdf %}) &middot;
+    [Marked]({{ site.baseurl }}{% link assets/pdf/java-tutorial-marked.pdf %})
 : **P0**{: .label .label-purple }[**Primer**]({{ site.baseurl }}{% link projects/primer.md %}) due 7/12
 
 7/6
