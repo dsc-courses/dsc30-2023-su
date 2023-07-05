@@ -84,13 +84,13 @@ Once IntelliJ is installed, [run IntelliJ IDEA](https://www.jetbrains.com/help/i
 
 Next, we have a few more setup steps before we can proceed with obtaining the project code. From the **Welcome to IntelliJ IDEA** screen:
 
-1. In the banner at the bottom, choose **Enable New UI**. This might require a restart.
+1. In the banner at the bottom, choose **Enable New UI** and restart IntelliJ.
 1. In the left sidebar, select **Plugins**, search for "jGRASP" in the marketplace, and then install the **jGRASP** plugin.
-1. In the space at the bottom, choose **Start Tour** and complete the first chapter of the onboarding tour.
+1. In the left sidebar, select **Project**. In the space at the bottom, choose **Start Tour** and complete the onboarding tour.
 
 ### Obtain and run project code
 
-From the **Welcome to IntelliJ IDEA** screen, select **Projects** from the sidebar and then **Get from VCS**. Paste the following URL, choose a place to enter, and clone the project code repository.
+After you've completed the onboarding tour, select the **Main menu** (hamburger menu in the top left corner), choose **New \| Project \| Project from Version Control**. Paste the following URL, choose a place to save the project, and clone the project code repository.
 
 ```
 https://github.com/kevinlin1/primer.git
