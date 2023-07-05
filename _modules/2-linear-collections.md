@@ -14,4 +14,4 @@ title: Linear Collections
 
 7/13
 : **Iterative Sorts**
-: **D1**{: .label }**Linear Collections**
+: **D1**{: .label .bg-grey-dk-000 }**Linear Collections**

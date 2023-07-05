@@ -16,4 +16,4 @@ title: Java Programming
 
 7/6
 : **Object-Oriented Programming**
-: **D0**{: .label }**Java Programming**
+: **D0**{: .label .bg-grey-dk-000 }**Java Programming**

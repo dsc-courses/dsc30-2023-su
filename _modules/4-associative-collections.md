@@ -15,4 +15,4 @@ title: Associative Collections
 
 7/27
 : **Affordance Analysis**
-: **D3**{: .label }**Associative Collections**
+: **D3**{: .label .bg-grey-dk-000 }**Associative Collections**

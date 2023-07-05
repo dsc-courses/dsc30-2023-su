@@ -15,4 +15,4 @@ title: Sorting and Searching
 
 7/20
 : **2-3 Trees**
-: **D2**{: .label }**Sorting and Searching**
+: **D2**{: .label .bg-grey-dk-000 }**Sorting and Searching**
