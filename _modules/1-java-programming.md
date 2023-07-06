@@ -18,7 +18,8 @@ title: Java Programming
 
 7/6
 : **Object-Oriented Programming**
-  : [Doc](https://docs.google.com/document/d/1yOXP0dJjdzCJFmHtAdWJ-eSVj-9zGNurH8xoW1afXGY/copy) &middot;
-    [Colab](https://colab.research.google.com/drive/1_-UR_advg-9J4o1WwWBvawPfFv0ZEdpm?usp=sharing)
+  : [Doc](https://docs.google.com/document/d/1yOXP0dJjdzCJFmHtAdWJ-eSVj-9zGNurH8xoW1afXGY/edit?usp=sharing) &middot;
+    [Colab](https://colab.research.google.com/drive/1_-UR_advg-9J4o1WwWBvawPfFv0ZEdpm?usp=sharing) &middot;
+    [Code](https://gist.github.com/kevinlin1/2995a18e43d288c11b43cfd26a47fc0c)
 : [**Integrity of Scholarship Agreement**](https://docs.google.com/forms/d/e/1FAIpQLSdsXF3h_G5HLwUKge20nzLCH4ovmzvax7qDOYb2GXAUi2_Kog/viewform?usp=sf_link)
 : **D0**{: .label .bg-grey-dk-000 }**Java Programming**
