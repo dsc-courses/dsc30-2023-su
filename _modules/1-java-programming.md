@@ -23,3 +23,4 @@ title: Java Programming
     [Code](https://gist.github.com/kevinlin1/2995a18e43d288c11b43cfd26a47fc0c)
 : [**Integrity of Scholarship Agreement**](https://docs.google.com/forms/d/e/1FAIpQLSdsXF3h_G5HLwUKge20nzLCH4ovmzvax7qDOYb2GXAUi2_Kog/viewform?usp=sf_link)
 : **D0**{: .label .bg-grey-dk-000 }**Java Programming**
+  : [Slides](https://docs.google.com/presentation/d/1Ezj_ZEM9SoCoPG83zonKhcPNaWauP-Yvl07qxgkZL6U/edit?usp=drive_link)
