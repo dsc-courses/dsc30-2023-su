@@ -12,8 +12,8 @@ title: Java Programming
 
 7/5
 : [**Java Tutorial**](https://cse12x.github.io/java-tutorial/)
-  : [Slides]({{ site.baseurl }}{% link assets/pdf/java-tutorial.pdf %}) &middot;
-    [Marked]({{ site.baseurl }}{% link assets/pdf/java-tutorial-marked.pdf %})
+  : [Slides](https://drive.google.com/file/d/1Zk7BsmyKp63h8yno3B_jOZm2uOZ8Jkll/view?usp=drive_link) &middot;
+    [Marked](https://drive.google.com/file/d/1lno4sLWeX5iY6MwcfZWbUUCJlUNHKeGF/view?usp=drive_link)
 : **P0**{: .label .label-purple }[**Primer**]({{ site.baseurl }}{% link projects/primer.md %}) due 7/12
 
 7/6
