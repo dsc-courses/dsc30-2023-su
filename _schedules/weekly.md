@@ -27,7 +27,7 @@ schedule:
       - name: Office Hours
         start: 9:30 AM
         end: 11:00 AM
-        location: FAH Atrium and Zoom
+        location: FAH Atrium + Zoom
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
@@ -35,13 +35,13 @@ schedule:
       - name: Office Hours
         start: 12:30 PM
         end: 3:30 PM
-        location: FAH Atrium and Zoom
+        location: FAH Atrium + Zoom
   - name: Tuesday
     events:
       - name: Office Hours
         start: 9:30 AM
         end: 11:00 AM
-        location: FAH Atrium and Zoom
+        location: FAH Atrium + Zoom
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
@@ -49,13 +49,13 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 3:30 PM
-        location: FAH Atrium and Zoom
+        location: FAH Atrium + Zoom
   - name: Wednesday
     events:
       - name: Office Hours
         start: 9:30 AM
         end: 11:00 AM
-        location: FAH Atrium and Zoom
+        location: FAH Atrium + Zoom
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
@@ -63,13 +63,13 @@ schedule:
       - name: Office Hours
         start: 12:30 PM
         end: 3:30 PM
-        location: FAH Atrium and Zoom
+        location: FAH Atrium + Zoom
   - name: Thursday
     events:
       - name: Office Hours
         start: 9:30 AM
         end: 11:00 AM
-        location: FAH Atrium and Zoom
+        location: FAH Atrium + Zoom
       - name: Lecture
         start: 11:00 AM
         end: 12:30 PM
@@ -77,7 +77,7 @@ schedule:
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: FAH Atrium and Zoom
+        location: FAH Atrium + Zoom
       - name: Discussion
         start: 2:00 PM
         end: 4:00 PM
@@ -85,7 +85,7 @@ schedule:
       - name: Office Hours
         start: 4:00 PM
         end: 5:00 PM
-        location: FAH Atrium and Zoom
+        location: FAH Atrium + Zoom
   - name: Friday
     events:
       - name: Office Hours
