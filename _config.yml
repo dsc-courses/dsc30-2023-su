@@ -23,7 +23,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 google_site_verification: 'QclY_1udbdKts462GzFHLmFoaioICIQ16kjZumjRJIg'
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.5.3
+remote_theme: just-the-docs/just-the-docs@v0.5.4
 color_scheme: contrast
 search_enabled: true
 search:
