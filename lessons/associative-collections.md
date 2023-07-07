@@ -90,7 +90,7 @@ The following slides visualize the procedure for adding several elements to a LL
 {: .hint }
 LLRB tree balance is maintained using only [3 lines of code](https://github.com/kevin-wayne/algs4/blob/48ad6a3fa0e062941aa93c43860be331c2ad57a1/src/main/java/edu/princeton/cs/algs4/RedBlackBST.java#L215-L217). But it's also possible to reason about the data structure by visualizing the corresponding 2-3 tree: try simulating the sequence of insertions from the slides below in the [2-3 Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html) and compare the results.
 
-{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring22/cos226/demos/33DemoRedBlackBST/index.html" aspect_ratio="16/9" %}
+{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring23/cos226/demos/33DemoRedBlackBST/index.html" aspect_ratio="16/9" %}
 
 ## Binary Heaps
 
@@ -188,7 +188,7 @@ Array representation
 
 The following slides and visualizations show a **binary max-heap** where the heap is organized around access to the maximum element at the top of the heap.
 
-{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring22/cos226/demos/24DemoBinaryHeap/index.html" aspect_ratio="16/9" %}
+{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring23/cos226/demos/24DemoBinaryHeap/index.html" aspect_ratio="16/9" %}
 
 {: .hint }
 > Open the VisuAlgo module to visualize binary max-heap operations. Press `Esc` to exit the e-Lecture Mode. Choose **ExtractMax()** from the bottom left menu and select **1x (Once)** to see the result of removing the element associated with the maximum priority value. The red number under each node represents the index in the array representation of the tree.

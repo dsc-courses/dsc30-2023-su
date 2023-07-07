@@ -248,7 +248,7 @@ We often use "corresponding" and "isomorphic" interchangeably, but isomorphism i
 
 The **trie** (pronounced "try") data structure is a specialized tree designed for storing string data by subdividing strings into individual characters. Whereas each node in a binary search tree represents an entire element, each node in a trie represents a single character within a string. To indicate that a node represents a complete word: in a trie map the value associated with the node is null; in a trie set the value associated with the node is true.
 
-{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring22/cos226/demos/52DemoTrie/index.html" aspect_ratio="16/9" %}
+{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring23/cos226/demos/52DemoTrie/index.html" aspect_ratio="16/9" %}
 
 {: .hint }
 > Open the Algorithm Visualizations module to visualize tries. Insert words and predict how the data structure will change.
@@ -272,7 +272,7 @@ Middle child
 Right child
 : All strings _not using_ the current character, and after the current string in the alphabet.
 
-{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring22/cos226/demos/52DemoTST/index.html" aspect_ratio="16/9" %}
+{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring23/cos226/demos/52DemoTST/index.html" aspect_ratio="16/9" %}
 
 {: .hint }
 > Open the Algorithm Visualizations module to visualize ternary search trees. Insert words and predict how the data structure will change.
@@ -342,7 +342,7 @@ A 2-3 tree doesn't contain 4-nodes. But if it did, it could have exactly 3 keys 
 
 This definition does not allow nodes that have just 1 non-null child. A 2-3 tree ensures that all nodes have either 2 or 3 non-null children so that the height will always be between about log<sub>2</sub> _N_ and log<sub>3</sub> _N_. Furthermore, because height is added evenly to all children, all leaf nodes in a 2-3 tree are the same distance from the overall root.
 
-{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring22/cos226/demos/33Demo23Tree/index.html" aspect_ratio="16/9" %}
+{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring23/cos226/demos/33Demo23Tree/index.html" aspect_ratio="16/9" %}
 
 {: .hint }
 > Open the Algorithm Visualizations module to visualize B-trees with max degree = 3. Insert words or numbers and predict how the data structure will change.

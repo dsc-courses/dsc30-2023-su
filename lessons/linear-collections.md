@@ -551,7 +551,7 @@ In each iteration, **selection sort** selects the _smallest unsorted element_ an
 
 Selection sort has an important invariant that was introduced called **iterative improvement**. We keep track of a _sorted elements_ portion at the front of the array and gradually grow the number of _sorted elements_. Once the _sorted elements_ portion reaches the full length of the array, we're done sorting the array!
 
-{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring22/cos226/demos/21DemoSelectionSort/index.html" aspect_ratio="16/9" %}
+{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring23/cos226/demos/21DemoSelectionSort/index.html" aspect_ratio="16/9" %}
 
 <details markdown="block">
 <summary>Give an asymptotic runtime analysis of selection sort with respect to the number of elements.</summary>
@@ -565,7 +565,7 @@ The runtime for selection sort is similar to the runtime for `dup1`, which we de
 
 In each iteration, **insertion sort** inserts the _next unsorted element_ into the _sorted elements_ portion at the front of the array by swapping it left one index at a time until it is in its correct position. Like selection sort, insertion sort is also an iterative improvement sorting algorithm.
 
-{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring22/cos226/demos/21DemoInsertionSort/index.html" aspect_ratio="16/9" %}
+{% include slides.html src="https://www.cs.princeton.edu/courses/archive/spring23/cos226/demos/21DemoInsertionSort/index.html" aspect_ratio="16/9" %}
 
 <details markdown="block">
 <summary>Give an asymptotic runtime analysis of insertion sort with respect to the number of elements.</summary>
