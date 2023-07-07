@@ -69,7 +69,7 @@ public class ArrayList<E> {
         }
 
         // Add the element to the end of the new array.
-        newData[elementData.length] = element;
+        newData[newData.length - 1] = element;
 
         // Re-assign the private field to the new array.
         elementData = newData;
