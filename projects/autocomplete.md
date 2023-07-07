@@ -326,11 +326,6 @@ Copy-paste the text into plotting software such as [Desmos](https://www.desmos.c
 
 Optionally, apply what you've learned by working on these project ideas.
 
-- **TrieSearchTreeAutocomplete.** If you enjoyed the challenge of implementing and adapting code for the TST and wanted to trie one more implementation, we've provided some resources and starter code for implementing a Trie as well.
-- **More connections.**
-    - **Predictive Text and Machine Learning.** Our `Autocomplete` implementation outputs all the matching terms from a pre-existing dataset, but machine learning can help us take into consideration other factors that make a predicted term more likely to be typed next.
-    - **“Can Large Scale Information Access Systems Be Made Fair, Unbiased, and Transparent?”** -- a UW Data Science Seminar talk by Chirag Shah.
-
 ### Wordscapes
 
 Wordscapes is an app that has multiple levels where you try to fill out a crossword puzzle using only the letters provided. Although a set of words can create several valid words, only a select few are considered to fill out the puzzle (perfect place to use `isTerm`). You can choose an implementation that you feel is most appropriate for the game and also create your own list of words to use for the crosswords you create.
