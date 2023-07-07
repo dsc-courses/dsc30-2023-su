@@ -34,7 +34,7 @@ schedule:
         location: FAH 1101
       - name: Office Hours
         start: 12:30 PM
-        end: 3:30 PM
+        end: 2:00 PM
         location: FAH Atrium + Zoom
   - name: Tuesday
     events:
