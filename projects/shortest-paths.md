@@ -137,9 +137,6 @@ The `source` and `sink` are defined using a feature in Java called [anonymous cl
 
 Design and implement 1 graph representation, 1 graph algorithm, and 1 dynamic programming algorithm for seam finding.
 
-{: .warning }
-All team members must work together and fully understand each implementation. Do not assign each implementation to individual team members. The implementations are described in order of increasing complexity so later implementations will require significantly more work.
-
 ### GenerativeSeamFinder
 
 A graph representation that implements `SeamFinder`. Similar to `AdjacencyListSeamFinder` but rather than creating the neighbors for every node in the `PixelGraph` constructor ahead of time, this approach only creates vertices and edges when `Pixel.neighbors` is called.

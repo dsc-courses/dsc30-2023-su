@@ -159,9 +159,6 @@ The state of both maps is synchronized across all methods. Any change to one dat
 
 Design and implement 3 implementations of the `MinPQ` interface.
 
-{: .warning }
-All team members must work together and fully understand each implementation. Do not assign each implementation to individual team members. The implementations are described in order of increasing complexity so later implementations will require significantly more work.
-
 ### UnsortedArrayMinPQ
 
 Elements are added to an `ArrayList` in any order. Most operations may need to scan over the entire list.

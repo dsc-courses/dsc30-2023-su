@@ -220,9 +220,6 @@ public List<CharSequence> allMatches(CharSequence prefix) {
 
 Design and implement 3 implementations of the `Autocomplete` interface.
 
-{: .warning }
-All team members must work together and fully understand each implementation. Do not assign each implementation to individual team members. The implementations are described in order of increasing complexity so later implementations will require significantly more work.
-
 ### SequentialSearchAutocomplete
 
 Terms are added to an `ArrayList` in any order. Because there elements are not stored in any sorted order, the `allMatches` method must scan across the entire list and check every term to see if it matches the `prefix`.
