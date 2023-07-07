@@ -30,7 +30,7 @@ In this project, we'll study this performance problem by designing and analyzing
 <details markdown="block">
 <summary>Can I work with someone else on this project?</summary>
 
-Although this project requires an individual submission, we welcome collaboration and teamwork in this class. There are very few limits on collaboration in this course; our primary rule is that we ask that you do not claim to be responsible for work that is not yours. If you get a lot of help from someone else or from an online resource, cite it. I believe that there is a lot of value in learning from others, and even in reading others' solutions, so long as you do not deprive yourself (or others) of the opportunity to learn.
+Although this project requires an individual submission, we welcome collaboration and teamwork in this class. Our primary rule is that we ask that you do not claim to be responsible for work that is not yours. If you get a lot of help from someone else or from an online resource, cite it. I believe that there is a lot of value in learning from others so long as you do not deprive yourself (or others) of the opportunity to learn.
 
 We are comfortable doing this because each submission in this class comes in the form of a video that you record. Your video is a demonstration of everything that you learned throughout the process of working on an assignment. Our goal is for students to support each other and find community through this course. The real advantage of taking a course on-campus at a university is to be able to connect with others who share common interests in learning.
 </details>
@@ -38,18 +38,11 @@ We are comfortable doing this because each submission in this class comes in the
 <details markdown="block">
 <summary>What am I submitting at the end of this project?</summary>
 
-Satisfactory completion of the project requires a **video-recorded individual presentation that addresses all the green callouts**.
-
-{: .deliverable }
-The project instructions contain a lot of details to provide context, clarify common confusions, and help students get started. Your video explanation only needs to address tasks that are described in green callouts like this one.
-
-Your video presentation should meet the following requirements:
+Satisfactory completion of the project requires a **video-recorded individual presentation that addresses all the green "Deliverable" callouts**. Your video presentation should additionally meet the following requirements:
 
 - Your presentation should not be much longer than 6 minutes and should include your voiceover. (Your video is appreciated but not necessary.)
 - Your presentation should include some kind of visually-organizing structure, such as slides or a document.
 - After submitting to Canvas, add a submission comment linking to your slides or document.
-
-We do not ask for your code. Given enough time and support, we're certain you would be able to write a fully-functional program that meets the specification. The goal of this course is to learn how to design program specifications in the first place. Although this doesn't requires fully-functional code, you'll often need to write programs that are close enough to the specification for it to provide a meaningful basis for further analysis and discussion.
 </details>
 
 ## Setup
