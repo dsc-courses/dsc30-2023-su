@@ -20,6 +20,7 @@ youtube: yes
 
 ## Recursive Sorts
 
+{% include code.md lesson="Recursive Sorts" %}
 {% include learning_objectives.md lesson="Recursive Sorts" %}
 
 **Sequential search** returns the index of an element in an array in worst case linear time by scanning across the array and comparing each element to the target. Although linear time algorithms are much more efficient than quadratic time algorithms, there are many situations where we need to make a large number of searches on a large amount of data.
@@ -166,6 +167,7 @@ By recursively repeating this process, quicksort eventually sorts all the elemet
 
 ## Search Trees
 
+{% include code.md lesson="Search Trees" %}
 {% include learning_objectives.md lesson="Search Trees" %}
 
 A sorted array enables logarithmic-time algorithms like binary search. To determine if a certain element is in a sorted array containing 100,000,000 elements, binary search only needed log<sub>2</sub> 100,000,000, or about 27 comparisons! The combination of **sorting algorithms** and **searching algorithms** can enable efficient features like autocomplete that shape how people make sense of the world.
@@ -244,6 +246,7 @@ We often use "corresponding" and "isomorphic" interchangeably, but isomorphism i
 
 ## Tries
 
+{% include code.md lesson="Tries" %}
 {% include learning_objectives.md lesson="Tries" %}
 
 The **trie** (pronounced "try") data structure is a specialized tree designed for storing string data by subdividing strings into individual characters. Whereas each node in a binary search tree represents an entire element, each node in a trie represents a single character within a string. To indicate that a node represents a complete word: in a trie map the value associated with the node is null; in a trie set the value associated with the node is true.
@@ -314,6 +317,7 @@ Writing memory- and cache-efficient programs requires an understanding of how th
 
 ## 2-3 Trees
 
+{% include code.md lesson="2-3 Trees" %}
 {% include learning_objectives.md lesson="2-3 Trees" %}
 
 Binary search trees aimed to address the linear-time worst case for adding or removing elements from a sorted array set. Yet we now know that binary search trees not only fail to improve on this worst case runtime, but can also degrade performance on methods like `contains` that were much faster when we performed a binary search on a sorted array.

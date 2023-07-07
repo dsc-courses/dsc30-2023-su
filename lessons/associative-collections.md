@@ -20,6 +20,7 @@ youtube: yes
 
 ## Left-Leaning Red-Black Trees
 
+{% include code.md lesson="Left-Leaning Red-Black Trees" %}
 {% include learning_objectives.md lesson="Left-Leaning Red-Black Trees" %}
 
 Although 2-3 trees addressed the worst-case runtime problem with binary search trees by overstuffing and splitting nodes, they are rarely used in the real world. Overstuffing and splitting nodes involves constructing many 2-nodes and 3-nodes, which is not only complicated to design and implement, but also incurs a significant runtime cost since new nodes are constantly created or removed from a 2-3 tree. While this doesn't affect the asymptotic analysis, it is often noticeable in experimental analysis.
@@ -94,6 +95,7 @@ LLRB tree balance is maintained using only [3 lines of code](https://github.com/
 
 ## Binary Heaps
 
+{% include code.md lesson="Binary Heaps" %}
 {% include learning_objectives.md lesson="Binary Heaps" %}
 
 Compared to binary search trees, 2-3 trees and left-leaning red-black trees provided two solutions to avoiding worst case height. But neither a 2-3 tree nor a left-leaning red-black tree maintain a _perfectly-balanced binary search tree_. A 2-3 tree maintains perfect balance, but needs 3-child nodes. A left-leaning red-black tree is a binary search tree, but it doesn't maintain perfect balance: in the worst case, the left side can be up to double the height of the right side.
@@ -197,6 +199,7 @@ The following slides and visualizations show a **binary max-heap** where the hea
 
 ## Hash Tables
 
+{% include code.md lesson="Hash Tables" %}
 {% include learning_objectives.md lesson="Hash Tables" %}
 
 Java's `TreeSet` and `TreeMap` classes are implemented using red-black trees that guarantee logarithmic time for most individual element operations. This is a massive improvement over sequential search: a balanced search tree containing over 1 million elements has a height on the order of about 20!

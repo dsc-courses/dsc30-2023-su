@@ -3,12 +3,17 @@ Dynamic Arrays:
     - Design abstractions that hide internal implementation details from clients.
     - Explain the class invariants for the dynamic array data structure.
     - Write a unit test representing a test case involving a single program.
+  Code:
+    ResizingArrayStack.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/ResizingArrayStack.java
 
 Linked Nodes:
   Objectives:
     - Trace the execution of a program with primitive types and reference types.
     - Define methods that manipulate nodes at the beginning and end of a list.
     - Write a unit test for comparing the output of two programs.
+  Code:
+    LinkedStack.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/LinkedStack.java
+    LinkedQueue.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/LinkedQueue.java
 
 Asymptotic Analysis:
   Objectives:
@@ -21,48 +26,69 @@ Iterative Sorts:
     - Describe the problem of sorting, ordering relations, and stability.
     - Trace each iteration of selection sort and insertion sort.
     - Identify a run of selection sort and insertion sort on an array.
+  Code:
+    Insertion.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/Insertion.java
+    Selection.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/Selection.java
 
 Recursive Sorts:
   Objectives:
     - Analyze the runtime of a recursive algorithm using recurrences.
     - Trace the recursive execution of merge sort and quicksort.
     - Identify a run of merge sort and quicksort on an array.
+  Code:
+    BinarySearch.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/BinarySearch.java
+    Merge.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/Merge.java
+    Quick.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/Quick.java
 
 Search Trees:
   Objectives:
     - Describe the isomorphism between search trees and quicksort.
     - Identify a best/worst-case height BST insertion order for given elements.
     - Trace the search and insertion procedures in a BST.
+  Code:
+    BST.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/BST.java
 
 Tries:
   Objectives:
     - Describe the analogy between tries and sorting algorithms.
     - Trace the search and insertion procedures in a TST and a trie.
     - Explain the TST and trie collection and traversal algorithms.
+  Code:
+    TrieST.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/TrieST.java
+    TST.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/TST.java
 
 2-3 Trees:
   Objectives:
     - Identify element promotions during the 2-3 tree insertion process.
     - Identify an insertion order that will increase the height of a 2-3 tree.
     - Analyze the best-case and worst-case height of a 2-3 tree.
+  Code:
+    BTree.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/BTree.java
 
 Left-Leaning Red-Black Trees:
   Objectives:
     - Given a 2-3 tree, identify its corresponding LLRB tree (and vice-versa).
     - Apply rotations and color flips for a single LLRB tree insertion.
     - Using 1-1 correspondence, give the LLRB tree for a series of insertions.
+  Code:
+    RedBlackBST.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/RedBlackBST.java
 
 Binary Heaps:
   Objectives:
     - Apply sink/swim operations to trace heap element insertion and removal.
     - Identify possible binary heap indices for the n-th smallest value.
     - Given an array index, find the parent, left child, and right child indexes.
+  Code:
+    MinPQ.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/MinPQ.java
+    Heap.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/Heap.java
 
 Hash Tables:
   Objectives:
     - Explain and trace hash table algorithms such as insertion and search.
     - Evaluate how a hash table will behave in response to a given data type.
     - Analyze the runtime of a hash table with a given bucket data structure.
+  Code:
+    SeparateChainingHashST.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/SeparateChainingHashST.java
 
 Affordance Analysis:
   Objectives:
@@ -75,6 +101,11 @@ Graph Traversals:
     - Trace and explain each data structure in BFS and DFS graph traversal.
     - Analyze the runtime of a graph algorithm in terms of vertices and edges.
     - Define an appropriate graph abstraction for a given image processing problem.
+  Code:
+    Graph.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/Graph.java
+    Digraph.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/Digraph.java
+    BreadthFirstPaths.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/BreadthFirstPaths.java
+    DepthFirstPaths.java: https://github.com/kevin-wayne/algs4/blob/master/src/main/java/edu/princeton/cs/algs4/DepthFirstPaths.java
 
 System Design:
   Objectives:
