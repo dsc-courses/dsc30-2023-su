@@ -85,7 +85,7 @@ schedule:
       - name: Office Hours
         start: 4:00 PM
         end: 5:00 PM
-        location: FAH Atrium + Zoom
+        location: WLH 2204 + Zoom
   - name: Friday
     events:
       - name: Office Hours
