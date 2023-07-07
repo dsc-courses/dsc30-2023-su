@@ -22,5 +22,5 @@ title: Java Programming
     [Colab](https://colab.research.google.com/drive/1_-UR_advg-9J4o1WwWBvawPfFv0ZEdpm?usp=sharing) &middot;
     [Code](https://gist.github.com/kevinlin1/2995a18e43d288c11b43cfd26a47fc0c)
 : [**Integrity of Scholarship Agreement**](https://docs.google.com/forms/d/e/1FAIpQLSdsXF3h_G5HLwUKge20nzLCH4ovmzvax7qDOYb2GXAUi2_Kog/viewform?usp=sf_link)
-: **D0**{: .label .bg-grey-dk-000 }**Java Programming**
+: [**<small>▶</small> D0**](https://ucsd.zoom.us/rec/share/ZkL8Q6SRZOE6c5eZrnstrObGTDD2zlvXNn8I95Q6hOU_wPYybexkJWQyrPuvKaQd.ZBwE3s_qsCb8zeqN){: .label .bg-grey-dk-000 }**Java Programming**
   : [Slides](https://docs.google.com/presentation/d/1Ezj_ZEM9SoCoPG83zonKhcPNaWauP-Yvl07qxgkZL6U/edit?usp=drive_link)
