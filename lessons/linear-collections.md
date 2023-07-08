@@ -40,7 +40,7 @@ Collection
 In this lesson, we'll study two approaches to implement `ArrayList`. Consider the following code that shows us how an `ArrayList` changes over time as we add numbers to it.
 
 ```java
-ArrayList<Integer> nums = new ArrayList<>();
+List<Integer> nums = new ArrayList<>();
 nums.add(1); // [1]
 nums.add(2); // [1, 2]
 nums.add(3); // [1, 2, 3]
@@ -51,7 +51,7 @@ This example provides some insight into one possible approach. The brackets nota
 ```java
 // The use of E here indicates the type of elements in the ArrayList.
 // Clients can say ArrayList<Integer> to represent a list of integers.
-public class ArrayList<E> {
+public class ArrayList<E> implements List<E> {
     private E[] elementData;
 
     public ArrayList() {
@@ -106,7 +106,7 @@ While this code works fine when the lists are small, even today's fast computers
 To address this inefficiency, we can introduce a second field called `size`.
 
 ```java
-public class ArrayList<E> {
+public class ArrayList<E> implements List<E> {
     private E[] elementData;
     private int size;
 
@@ -242,7 +242,7 @@ Let's reason about this one subexpression at a time.
 Where do we write the `add`, `remove`, `size`, and `toString` methods? If each `Node` stores a single element's value, how do we refer to all the elements? We need a `LinkedList` class that **encapsulates** all the `Node` objects by bundling together all the data with the methods for operating on all of it.
 
 ```java
-public class LinkedList<E> {
+public class LinkedList<E> implements List<E> {
     // Reference to the first node in the sequence
     private Node front;
 
