@@ -4,6 +4,7 @@ title: Linear Collections
 
 7/10
 : [**Dynamic Arrays**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#dynamic-arrays)
+  : [Code](https://gist.github.com/kevinlin1/4017b075ad536ea07d12dbe22c882b6c)
 : {% include learning_objectives.md lesson="Dynamic Arrays" %}
 
 7/11
