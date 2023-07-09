@@ -159,7 +159,7 @@ Explain how you converted the Python `range` function into Java `for` loops.
 
 ### An ancient algorithm
 
-> In mathematics, the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) is an ancient algorithm for finding all prime numbers up to any given limit.
+> In mathematics, the Sieve of Eratosthenes is an ancient algorithm for finding all prime numbers up to any given limit.
 >
 > It does so by iteratively marking as composite (i.e., not prime) the multiples of each prime, starting with the first prime number, 2. The multiples of a given prime are generated as a sequence of numbers starting from that prime, with constant difference between them that is equal to that prime.
 >
@@ -167,7 +167,7 @@ Explain how you converted the Python `range` function into Java `for` loops.
 
 [^1]: SKopp, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
 
-In the `Sieve` class, write a Java implementation for `sieve` that takes as input 2 integer arguments: `start` and `end`. The method should return an integer array containing the primes in the interval `[start, end)`. In other words, `start` is included in the range but `end` is not. If `end` is less than or equal to `start`, return an empty array.
+In the `Sieve` class, write a Java implementation for `sieve` that implements the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes). The `sieve` method takes as input 2 integer arguments: `start` and `end`. The method should return an integer array containing the primes in the interval `[start, end)`. In other words, `start` is included in the range but `end` is not. If `end` is less than or equal to `start`, return an empty array.
 
 {: .deliverable }
 Explain the part of the `Sieve` class that you're most proud of programming.
