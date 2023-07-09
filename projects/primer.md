@@ -193,8 +193,16 @@ To create a test function:
 
 <video controls muted class="module full-width" style="aspect-ratio: 1580/904"><source src="https://resources.jetbrains.com/help/img/idea/2023.1/create-test.mp4" type="video/mp4"></video>
 
+### Unit testing
+
+Write at least three test cases for `findCommonPrefixes` in a single test function.
+
 {: .deliverable }
-Write at least two test cases for `findCommonPrefixes` in a single test function.
+Explain your test cases for `findCommonPrefixes`. How do your test cases provide confidence that the program works on different potential inputs?
+
+### Systematic testing
+
+Write a systematic test for the `sieve` algorithm that iterates over all valid inputs for `start` and `end` between 0 and 100 and then comparing the result to your `foo` function, which also computes all the prime numbers within the same interval.
 
 {: .deliverable}
-Write a test case for the `sieve` by iterating over all valid inputs for `start` and `end` less than 100 and then comparing the result to your `foo` function, which also computes all the prime numbers within the same interval.
+Explain your systematic test for the `sieve` algorithm. How does your test code systematically check the combinations of `start` and `end`?
