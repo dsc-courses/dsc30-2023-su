@@ -167,7 +167,9 @@ Explain how you converted the Python `range` function into Java `for` loops.
 
 [^1]: SKopp, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
 
-In the `Sieve` class, write a Java implementation for `sieve` that implements the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes). The `sieve` method takes as input 2 integer arguments: `start` and `end`. The method should return an integer array containing the primes in the interval `[start, end)`. In other words, `start` is included in the range but `end` is not. If `end` is less than or equal to `start`, return an empty array.
+In the `Sieve` class, write a Java implementation for `sieve` that implements the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes). The `sieve` method takes as input 2 integer arguments: `start` and `end`. The method should return an integer array containing the primes in the interval `[start, end)`. In other words, `start` is included in the range but `end` is not.
+
+Return an empty array if either `start` or `end` is negative or `end` is less than or equal to `start`.
 
 {: .deliverable }
 Explain the part of the `Sieve` class that you're most proud of programming.
