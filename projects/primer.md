@@ -202,7 +202,7 @@ Explain your test cases for `findCommonPrefixes`. How do your test cases provide
 
 ### Systematic testing
 
-Write a systematic test for the `sieve` algorithm that iterates over all valid inputs for `start` and `end` between 0 and 100 and then comparing the result to your `foo` function, which also computes all the prime numbers within the same interval.
+Write a systematic test for the `sieve` algorithm that iterates over all valid inputs for `start` and `end` between 0 and 100 and compares the result to your `foo` function, which also computes all the prime numbers within the same interval.
 
 {: .deliverable}
 Explain your systematic test for the `sieve` algorithm. How does your test code systematically check the combinations of `start` and `end`?
