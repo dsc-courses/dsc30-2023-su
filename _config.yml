@@ -46,6 +46,11 @@ callouts:
     title: Deliverable
     color: green
 
+just_the_docs:
+  collections:
+    posts:
+      nav_exclude: true
+
 # Collections for website data
 collections:
   staffers:
