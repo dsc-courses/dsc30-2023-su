@@ -189,7 +189,7 @@ public E remove(int index) {
 We need to shift all the following elements down by 1 to maintain the `ArrayList` class invariant. The i-th index in the array must hold the i-th value in the list; we can't have any gaps in the array! If we didn't shift all the following elements down by 1, methods like `toString` would no longer work.
 </details>
 
-Shifting elements takes time. If the initial approach for implementing `ArrayList` was too slow for clients, then this approach could also be too slow for them. **Linked nodes** are an alternative to arrays for representing an ordered sequence of elements. Whereas arrays store all the elements together in memory, each linked node contains its own element and a "link" or reference to the next node. For example, our `LinkedList` class can represent linked nodes with a `Node` class consisting of two fields:
+Shifting elements can take a lot of time: if we want to remove the first element in an `ArrayList`, every other element needs to move over too. **Linked nodes** are an alternative to arrays for representing an ordered sequence of elements. Whereas arrays store all the elements together in memory, each linked node contains its own element and a "link" or reference to the next node. For example, our `LinkedList` class can represent linked nodes with a `Node` class consisting of two fields:
 
 - The value of the node's element as the `value` field.
 - A reference to the `next` element in the list.
