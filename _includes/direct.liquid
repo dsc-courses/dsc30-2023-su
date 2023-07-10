@@ -1,0 +1,15 @@
+{% capture _direct_workspace %}
+  {% comment %}
+    Return the value of the frontmatter field redirect_to for the given post. Assumes md extension.
+
+    Parameters:
+      `post` (string): the name of the post.
+  {% endcomment %}
+
+  {% assign _path = include.post | prepend: '_posts/' | append: '.md' %}
+  {% assign _matches = site.posts | where: 'path', _path %}
+  {% if _matches.size != 1 %}
+    {{ 1 / 0 }}
+  {% endif %}
+  {% assign _post = _matches | first %}
+{% endcapture %}{% assign _direct_workspace = '' %}{{ _post.redirect_to }}
