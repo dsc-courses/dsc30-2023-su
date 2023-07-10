@@ -7,9 +7,5 @@
   {% endcomment %}
 
   {% assign _path = include.post | prepend: '_posts/' | append: '.md' %}
-  {% assign _matches = site.posts | where: 'path', _path %}
-  {% if _matches.size != 1 %}
-    {{ 1 / 0 }}
-  {% endif %}
-  {% assign _post = _matches | first %}
+  {% assign _post = site.posts | where: 'path', _path | first %}
 {% endcapture %}{% assign _direct_workspace = '' %}{{ _post.redirect_to }}
