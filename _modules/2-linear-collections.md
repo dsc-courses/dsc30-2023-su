@@ -3,7 +3,7 @@ title: Linear Collections
 ---
 
 7/10
-: [**Dynamic Arrays**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#dynamic-arrays)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/1){: .label .btn-purple }[**Dynamic Arrays**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#dynamic-arrays)
   : [Code]({% include direct.liquid post='2023-07-10-dynamic-arrays-code' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-10-dynamic-arrays-marked' %})
 : {% include learning_objectives.md lesson="Dynamic Arrays" %}
