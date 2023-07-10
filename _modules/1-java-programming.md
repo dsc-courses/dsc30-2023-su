@@ -4,7 +4,7 @@ title: Java Programming
 
 7/3
 : **Hello World**
-  : [Code](https://gist.github.com/kevinlin1/84ab2025f9508b0888fc4ad611a30b3c)
+  : [Code]({% include direct.liquid post='2023-07-03-hello-world-code' %})
 : [HFJ](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf) 7--12, 50--62, 71--79, 83--86
 
 7/4
