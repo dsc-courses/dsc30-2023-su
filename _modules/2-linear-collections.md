@@ -4,7 +4,8 @@ title: Linear Collections
 
 7/10
 : [**Dynamic Arrays**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#dynamic-arrays)
-  : [Code]({% include direct.liquid post='2023-07-10-dynamic-arrays-code' %})
+  : [Code]({% include direct.liquid post='2023-07-10-dynamic-arrays-code' %}) &middot;
+    [Marked]({% include direct.liquid post='2023-07-10-dynamic-arrays-marked' %})
 : {% include learning_objectives.md lesson="Dynamic Arrays" %}
 
 7/11
