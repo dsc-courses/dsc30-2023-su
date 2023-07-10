@@ -19,8 +19,9 @@ youtube: yes
 {:toc}
 
 ## Dynamic Arrays
-
+{: .d-inline-block }
 {% include code.md lesson="Dynamic Arrays" %}
+{: .d-inline }
 {% include learning_objectives.md lesson="Dynamic Arrays" %}
 
 By writing Python code that use lists to solve a problem, you've been a client of the list data type. But have you ever wondered how lists are implemented in Python? Someone had to write an implementation for the list data type. This week, we'll investigate several different ways to implement the list data type.
@@ -153,8 +154,9 @@ In this second approach, the `elementData` is no longer exactly what the client 
 </details>
 
 ## Linked Nodes
-
+{: .d-inline-block }
 {% include code.md lesson="Linked Nodes" %}
+{: .d-inline }
 {% include learning_objectives.md lesson="Linked Nodes" %}
 
 Dynamic arrays aren't the only way to implement lists. In fact, for some methods, they can actually be quite slow. Lists not only allow adding elements, but also removing elements by a given index. How might we implement the `remove(int index)` method for the above `ArrayList` class?
@@ -467,8 +469,9 @@ Apply asymptotic notation
 : In the worst case, the runtime of `dup1` is in Θ(_N_<sup>2</sup>) with respect to _N_, the length of `A`.
 
 ## Iterative Sorts
-
+{: .d-inline-block }
 {% include code.md lesson="Iterative Sorts" %}
+{: .d-inline }
 {% include learning_objectives.md lesson="Iterative Sorts" %}
 
 There are different ways to find duplicates in an array. `dup1` represents one way to solve the problem: exhaustively check all possible pairs of elements and return whether a duplicate exists among them. In the worst case, `dup1` required quadratic time to return an answer.
