@@ -102,7 +102,7 @@ After a few seconds, IntelliJ will open the main editor screen. Let's create and
 
 1. Look at the left side of the screen for the **Project** tool window that shows all the files in the project.
 1. In the project tool window, right-click the folder named **src** and select **New \| Java class** from the menu.
-1. Name the class "Demo" and click **OK**. In the new file, paste in the contents of [`Demo.java`](https://gist.github.com/kevinlin1/84ab2025f9508b0888fc4ad611a30b3c).
+1. Name the class "Demo" and click **OK**. In the new file, paste in the contents of [`Demo.java`]({% include direct.liquid post='2023-07-03-hello-world-code' %}).
 1. In the editor, find the gutter containing all the line numbers and click on the ![Green play button](https://resources.jetbrains.com/help/img/idea/2023.1/app.expui.gutter.run.svg).
 1. Finally, select **Run 'Demo'** from the menu.
 
