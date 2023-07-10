@@ -17,9 +17,9 @@ title: Java Programming
 
 7/6
 : **Object-Oriented Programming**
-  : [Doc](https://docs.google.com/document/d/1yOXP0dJjdzCJFmHtAdWJ-eSVj-9zGNurH8xoW1afXGY/edit?usp=sharing) &middot;
-    [Colab](https://colab.research.google.com/drive/1_-UR_advg-9J4o1WwWBvawPfFv0ZEdpm?usp=sharing) &middot;
-    [Code](https://gist.github.com/kevinlin1/2995a18e43d288c11b43cfd26a47fc0c)
+  : [Doc]({% include direct.liquid post='2023-07-06-object-oriented-programming-doc' %}) &middot;
+    [Colab]({% include direct.liquid post='2023-07-06-object-oriented-programming-colab' %}) &middot;
+    [Code]({% include direct.liquid post='2023-07-06-object-oriented-programming-code' %})
 : [**Integrity of Scholarship Agreement**](https://docs.google.com/forms/d/e/1FAIpQLSdsXF3h_G5HLwUKge20nzLCH4ovmzvax7qDOYb2GXAUi2_Kog/viewform?usp=sf_link)
 : [**<small>▶</small> D0**](https://ucsd.zoom.us/rec/share/ZkL8Q6SRZOE6c5eZrnstrObGTDD2zlvXNn8I95Q6hOU_wPYybexkJWQyrPuvKaQd.ZBwE3s_qsCb8zeqN){: .label .btn-purple }**Java Programming**
-  : [Slides](https://docs.google.com/presentation/d/1Ezj_ZEM9SoCoPG83zonKhcPNaWauP-Yvl07qxgkZL6U/edit?usp=drive_link)
+  : [Slides]({% include direct.liquid post='2023-07-06-java-programming-slides' %})
