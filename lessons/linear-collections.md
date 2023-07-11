@@ -226,8 +226,13 @@ Node<Integer> n2 = new Node<>(2, n3);
 n1.next = n2;
 ```
 
+{: .hint }
+> Open the preloaded Java Tutor environment to visualize this code one step at a time. Before each time you press **Next >**, predict what will change in the visualization.
+>
+> [Java Tutor](https://pythontutor.com/render.html#code=public%20class%20Node%3CE%3E%20%7B%0A%20%20%20%20private%20final%20E%20value%3B%0A%20%20%20%20private%20Node%3CE%3E%20next%3B%0A%0A%20%20%20%20public%20Node%28E%20value%29%20%7B%0A%20%20%20%20%20%20%20%20this%28value,%20null%29%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20public%20Node%28E%20value,%20Node%3CE%3E%20next%29%20%7B%0A%20%20%20%20%20%20%20%20this.value%20%3D%20value%3B%0A%20%20%20%20%20%20%20%20this.next%20%3D%20next%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20public%20static%20void%20main%28String%5B%5D%20args%29%20%7B%0A%20%20%20%20%20%20%20%20Node%3CInteger%3E%20n1%20%3D%20new%20Node%3C%3E%281%29%3B%0A%20%20%20%20%20%20%20%20Node%3CInteger%3E%20n3%20%3D%20new%20Node%3C%3E%283%29%3B%0A%20%20%20%20%20%20%20%20Node%3CInteger%3E%20n2%20%3D%20new%20Node%3C%3E%282,%20n3%29%3B%0A%20%20%20%20%20%20%20%20n1.next%20%3D%20n2%3B%0A%0A%20%20%20%20%20%20%20%20Node%3CInteger%3E%20temp%20%3D%20n1.next.next%3B%0A%20%20%20%20%20%20%20%20System.out.println%28temp.value%29%3B%0A%20%20%20%20%7D%0A%7D&cumulative=false&curInstr=1&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=java&rawInputLstJSON=%5B%5D&textReferences=false){: .btn .btn-purple target="_blank" }
+
 <details markdown="block">
-<summary>What is the value of n1.next.next.value?</summary>
+<summary>After running the entire block of code, what is the value of n1.next.next.value?</summary>
 
 Let's reason about this one subexpression at a time.
 
@@ -236,11 +241,6 @@ Let's reason about this one subexpression at a time.
 1. `n1.next.next` refers to the node storing the value 3, or `n3`.
 1. `n1.next.next.value` evaluates to 3, the value stored in `n3`.
 </details>
-
-{: .hint }
-> Open the preloaded Java Tutor environment to visualize this code one step at a time. Before each time you press **Next >**, predict what will change in the visualization.
->
-> [Java Tutor](https://pythontutor.com/render.html#code=public%20class%20Node%3CE%3E%20%7B%0A%20%20%20%20private%20final%20E%20value%3B%0A%20%20%20%20private%20Node%3CE%3E%20next%3B%0A%0A%20%20%20%20public%20Node%28E%20value%29%20%7B%0A%20%20%20%20%20%20%20%20this%28value,%20null%29%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20public%20Node%28E%20value,%20Node%3CE%3E%20next%29%20%7B%0A%20%20%20%20%20%20%20%20this.value%20%3D%20value%3B%0A%20%20%20%20%20%20%20%20this.next%20%3D%20next%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20public%20static%20void%20main%28String%5B%5D%20args%29%20%7B%0A%20%20%20%20%20%20%20%20Node%3CInteger%3E%20n1%20%3D%20new%20Node%3C%3E%281%29%3B%0A%20%20%20%20%20%20%20%20Node%3CInteger%3E%20n3%20%3D%20new%20Node%3C%3E%283%29%3B%0A%20%20%20%20%20%20%20%20Node%3CInteger%3E%20n2%20%3D%20new%20Node%3C%3E%282,%20n3%29%3B%0A%20%20%20%20%20%20%20%20n1.next%20%3D%20n2%3B%0A%0A%20%20%20%20%20%20%20%20Node%3CInteger%3E%20temp%20%3D%20n1.next.next%3B%0A%20%20%20%20%20%20%20%20System.out.println%28temp.value%29%3B%0A%20%20%20%20%7D%0A%7D&cumulative=false&curInstr=1&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=java&rawInputLstJSON=%5B%5D&textReferences=false){: .btn .btn-purple target="_blank" }
 
 ### Encapsulation
 
