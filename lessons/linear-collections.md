@@ -274,7 +274,7 @@ public class LinkedList<E> implements List<E> {
         int result = 0;
         Node current = front;
         while (current != null) {
-            size += 1;
+            result += 1;
             current = current.next;
         }
         return result;
@@ -286,7 +286,7 @@ public class LinkedList<E> implements List<E> {
 
     private class Node {
         private final E value;
-        private Node<E> next;
+        private Node next;
 
         public Node(E value) {
             this(value, null);
