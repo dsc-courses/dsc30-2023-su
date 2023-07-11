@@ -178,6 +178,9 @@ public E remove(int index) {
         elementData[i - 1] = elementData[i];
     }
 
+    // Decrement the size to indicate the list has shrunk.
+    size -= 1;
+
     // Return the saved element.
     return result;
 }
