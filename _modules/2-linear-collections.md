@@ -10,7 +10,8 @@ title: Linear Collections
 
 7/11
 : [**Linked Nodes**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#linked-nodes)
-  : [Code](https://gist.github.com/kevinlin1/ff00adfca9593f27deeb9e4e2c8a0dd6)
+  : [Code](https://gist.github.com/kevinlin1/ff00adfca9593f27deeb9e4e2c8a0dd6) &middot;
+    [Marked](https://drive.google.com/file/d/1o3z1jtGlcBwTBFtGfa-3_5TpVummGMkE/view?usp=drive_link)
 : {% include learning_objectives.md lesson="Linked Nodes" %}
 
 7/12
