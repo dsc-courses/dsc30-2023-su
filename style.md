@@ -17,7 +17,7 @@ parent: DSC 30
 
 Programming is an inherently collaborative activity, so it is important to know how to write code that is easily understood by other people. **Code style** refers to programming guidelines that can help programmers read and understand code. This page describes the core guidelines that we will use in this course.
 
-Most formatting-related style guidelines can be detected automatically using the style checker. To install the style checker, go to **File \| Settings \| Plugins** and then install the "CS 61B" plugin. To run the style checker, right-click on a file in the project tool window and select **Check Style**. This will generate a list of style errors in the selected file.
+Most formatting-related style guidelines can be detected automatically using the style checker. To install the style checker, go to **File \| Settings \| Plugins** and then install the "CS 61B" plugin. To run the style checker, right-click on a file in the project tool window and select **Check Style**. This will generate a list of style errors in the selected file. You can also right-click the entire `src` folder to run the style checker on all source files.
 
 The style checker does not check for descriptive variable names or comments. If you make a change in IntelliJ, the style checker requires files to be manually saved using `Ctrl+S` to recognize your changes.
 
