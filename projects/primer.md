@@ -34,7 +34,7 @@ We are comfortable doing this because each submission in this class comes in the
 <details markdown="block">
 <summary>What am I submitting at the end of this project?</summary>
 
-Satisfactory completion of the project requires a **video-recorded individual presentation that addresses all the green callouts**.
+Satisfactory completion of the project requires a **video-recorded individual presentation that addresses all the green callouts** and your **implementations**.
 
 {: .deliverable }
 The project instructions contain a lot of details to provide context, clarify common confusions, and help students get started. Your video explanation only needs to address tasks that are described in green callouts like this one.
@@ -45,7 +45,7 @@ Your video presentation should meet the following requirements:
 - Your presentation should include some kind of visually-organizing structure, such as slides or a document.
 - After submitting to Canvas, add a submission comment linking to your slides or document.
 
-We do not ask for your code. Given enough time and support, we're certain you would be able to write a fully-functional program that meets the specification. The goal of this course is to learn how to design program specifications in the first place. Although this doesn't requires fully-functional code, you'll often need to write programs that are close enough to the specification for it to provide a meaningful basis for further analysis and discussion.
+Submit your program code to the corresponding assignment in Ed Lessons by uploading all of your implementations.
 </details>
 
 ## Setup
