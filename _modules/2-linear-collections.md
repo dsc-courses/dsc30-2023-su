@@ -9,7 +9,7 @@ title: Linear Collections
 : {% include learning_objectives.md lesson="Dynamic Arrays" %}
 
 7/11
-: [**Linked Nodes**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#linked-nodes)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/2){: .label .btn-purple }[**Linked Nodes**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#linked-nodes)
   : [Code]({% include direct.liquid post='2023-07-11-linked-nodes-code' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-11-linked-nodes-marked' %})
 : {% include learning_objectives.md lesson="Linked Nodes" %}
