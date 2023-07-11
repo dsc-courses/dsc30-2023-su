@@ -27,24 +27,6 @@ In this project, we will compare 2 graph representations, 2 graph algorithms, an
 - **Design and implement** graph representations and graph algorithms for image processing.
 - **Analyze and compare** the runtimes and affordances for graph algorithms.
 
-<details markdown="block">
-<summary>Can I work with someone else on this project?</summary>
-
-Although this project requires an individual submission, we welcome collaboration and teamwork in this class. Our primary rule is that we ask that you do not claim to be responsible for work that is not yours. If you get a lot of help from someone else or from an online resource, cite it. I believe that there is a lot of value in learning from others so long as you do not deprive yourself (or others) of the opportunity to learn.
-
-We are comfortable doing this because each submission in this class comes in the form of a video that you record. Your video is a demonstration of everything that you learned throughout the process of working on an assignment. Our goal is for students to support each other and find community through this course. The real advantage of taking a course on-campus at a university is to be able to connect with others who share common interests in learning.
-</details>
-
-<details markdown="block">
-<summary>What am I submitting at the end of this project?</summary>
-
-Satisfactory completion of the project requires a **video-recorded individual presentation that addresses all the green "Deliverable" callouts**. Your video presentation should additionally meet the following requirements:
-
-- Your presentation should not be much longer than 8 minutes and should include your voiceover. (Your video is appreciated but not necessary.)
-- Your presentation should include some kind of visually-organizing structure, such as slides or a document.
-- After submitting to Canvas, add a submission comment linking to your slides or document.
-</details>
-
 ## Seam-finding interfaces
 
 Seam carving depends on algorithms that can find a least-noticeable horizontal seam. The seam-finding interfaces are defined in the `src/seamfinding` folder.
