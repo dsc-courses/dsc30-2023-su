@@ -390,7 +390,7 @@ Earlier, we identified that in the `Autocomplete` interface, the `allMatches` me
 List<CharSequence> allMatches(CharSequence prefix)
 ```
 
-How might we evaluate autocomplete in Husky Maps using the value-sensitive design perspectives?
+How might we evaluate autocomplete in Triton Maps using the value-sensitive design perspectives?
 
 Human values
 : The list of results produced by autocomplete provides users with everything that matches their search query. But the `Autocomplete` interface does not personalize these results at all: given a search query, everyone sees the same results. There is no parameter or field for storing the personalization information. Results could be more helpful if they were tuned to your profile.
@@ -403,7 +403,7 @@ Direct and indirect stakeholders
 : We can certainly imagine different situations around who might receive benefits or harms from the pervasive uptake of this technology. You can draw different examples by thinking about how different datasets could lead to different outcomes. Another perspective is to think about who does the work of managing or inputting the data. Is the data on places provided by the government, by individual owners of each place, by volunteers gathering data from the world? How might people want to change how places are represented or named in the app? Who is given the right to make these decisions?
 
 {: .hint }
-You could also apply this same set of perspectives but instead focus on sorting the output list. Sorting requires selecting an abstraction for objects so that they can be ordered on a line. Husky Maps sorts autocomplete suggestions [using importance values from the OpenStreetMap project](https://nominatim.org/release-docs/4.2.0/customize/Importance/). Combining these two pieces of information (the affordances of sorting and the example dataset) can lead to another affordance analysis.
+You could also apply this same set of perspectives but instead focus on sorting the output list. Sorting requires selecting an abstraction for objects so that they can be ordered on a line. Triton Maps sorts autocomplete suggestions [using importance values from the OpenStreetMap project](https://nominatim.org/release-docs/4.2.0/customize/Importance/). Combining these two pieces of information (the affordances of sorting and the example dataset) can lead to another affordance analysis.
 
 Thinking through each perspective separately can help you assemble a more cohesive argument that considers the different potential impacts of software design. But in your final affordance analysis, you might find that your arguments combine ideas from 2 or all 3 perspectives. This recognizes the interconnectedness between the different ideas in your analysis.
 

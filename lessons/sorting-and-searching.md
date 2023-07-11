@@ -174,10 +174,10 @@ By recursively repeating this process, quicksort eventually sorts all the elemet
 
 A sorted array enables logarithmic-time algorithms like binary search. To determine if a certain element is in a sorted array containing 100,000,000 elements, binary search only needed log<sub>2</sub> 100,000,000, or about 27 comparisons! The combination of **sorting algorithms** and **searching algorithms** can enable efficient features like autocomplete that shape how people make sense of the world.
 
-Let's say we wanted to implement the autocomplete feature in Husky Maps. One approach is to implement a `BinarySearchAutocomplete` data type.
+Let's say we wanted to implement the autocomplete feature in Triton Maps. One approach is to implement a `BinarySearchAutocomplete` data type.
 
 Representation
-: Potential search results are stored in a sorted array. In Husky Maps, this contains the names of all the places near the UW Seattle campus.
+: Potential search results are stored in a sorted array. In Triton Maps, this contains the names of all the places near the UW Seattle campus.
 
 Functionality
 : The `addAll` method adds new elements to the data type. After the elements are added, the entire array is re-sorted to maintain the sorted representation.
