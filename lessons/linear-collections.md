@@ -253,10 +253,10 @@ public class LinkedList<E> implements List<E> {
 
     public void add(E element) {
         if (front == null) {
-            // If the list is empty, assign the new node to the front
+            // If the list is empty, assign the new node to the front.
             front = new Node(element);
         } else {
-            // Otherwise, add the element to the end of the list
+            // Otherwise, add the element to the end of the list.
             Node current = front;
             while (current.next != null) {
                 current = current.next;
@@ -270,7 +270,7 @@ public class LinkedList<E> implements List<E> {
     }
 
     public int size() {
-        // Count the number of nodes starting from front
+        // Count the number of nodes starting from front.
         int result = 0;
         Node current = front;
         while (current != null) {
