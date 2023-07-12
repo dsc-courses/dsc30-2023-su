@@ -44,7 +44,7 @@ Satisfactory completion of the project requires a **video-recorded individual pr
 - Your presentation should include some kind of visually-organizing structure, such as slides or a document.
 - After submitting to Canvas, add a submission comment linking to your slides or document.
 
-Submit your program code to the corresponding assignment in Ed Lessons by uploading all of your implementations.
+Submit your program code to the corresponding assignment in Ed Lessons by uploading all of your implementations and all the test cases that you wrote.
 </details>
 
 ## Setup
@@ -187,6 +187,16 @@ Lastly, if your first try goes badly, don't be afraid to scrap your code and sta
 
 {: .deliverable }
 Explain the part of the `LinkedDeque` class that you're most proud of programming.
+
+{: .deliverable }
+Run all the `tests` in IntelliJ and show a summary of the results. If the implementations pass all the test cases, explain an interesting bug that you addressed during your programming process. If the implementations do not pass all the test cases, explain what you think could be causing the problem.
+
+## Test
+
+Write at least 2 additional test cases for the `Deque` interface in the `DequeTests` abstract class.
+
+{: .deliverable }
+Explain how your additional test cases improve the test coverage. How do they address scenarios that weren't already covered by the provided test cases?
 
 ## Analyze and compare
 
