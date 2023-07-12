@@ -11,12 +11,14 @@ title: Linear Collections
 7/11
 : [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/2){: .label .btn-purple }[**Linked Nodes**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#linked-nodes)
   : [Code]({% include direct.liquid post='2023-07-11-linked-nodes-code' %}) &middot;
-    [Marked]({% include direct.liquid post='2023-07-11-linked-nodes-marked' %})
+    [Marked]({% include direct.liquid post='2023-07-11-linked-nodes-marked' %}) &middot;
+    [Final]({% include direct.liquid post='2023-07-11-linked-nodes-final-marked' %})
 : {% include learning_objectives.md lesson="Linked Nodes" %}
 
 7/12
 : [**Asymptotic Analysis**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#asymptotic-analysis)
-  : [Slides]({% include direct.liquid post='2023-07-12-asymptotic-analysis' %})
+  : [Slides]({% include direct.liquid post='2023-07-12-asymptotic-analysis' %}) &middot;
+    [Marked]({% include direct.liquid post='2023-07-12-asymptotic-analysis-marked' %})
 : {% include learning_objectives.md lesson="Asymptotic Analysis" %}
 : **P1**{: .label .label-yellow }[**Deques**]({{ site.baseurl }}{% link projects/deques.md %}) due 7/19
 
