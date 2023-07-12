@@ -163,7 +163,7 @@ Implement the `LinkedDeque` class with the following additional requirements:
 1. The class is implemented with the help of **sentinel nodes** according to the following invariants. Use the doubly-linked `Node` class defined at the bottom of the `LinkedDeque.java` file.
 
 Invariant
-: An property of an implementation that must be true before and after any methods. For example, in an `ArrayList`, the _i_-th element in the list is always stored at `elementData[i]`.
+: A property of an implementation that must be true before and after any methods. For example, in an `ArrayList`, the _i_-th element in the list is always stored at `elementData[i]`.
 
 Sentinel node
 : A sentinel node is a special node in a linked data structure that doesn't contain any meaningful data and is always present in the data structure, even when it's empty. Because we no longer need to check if the current node is null before accessing it, we can simplify the number of conditions that are needed to implement `LinkedDeque` methods. We recommend using two sentinel nodes to simplify your code, providing access to both the front and the back of the deque.[^2]
