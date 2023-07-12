@@ -295,7 +295,7 @@ Run all the `tests` in IntelliJ and show a summary of the results. If the implem
 
 ## Test
 
-Write at least 2 additional test cases for the `Deque` interface in the `DequeTests` abstract class.
+Write at least 2 additional test cases for the `Autocomplete` interface in the `AutocompleteTests` abstract class.
 
 {: .deliverable }
 Explain how your additional test cases improve the test coverage. How do they address scenarios that weren't already covered by the provided test cases?
