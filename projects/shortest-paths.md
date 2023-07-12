@@ -129,9 +129,6 @@ A graph representation that implements `SeamFinder`. Similar to `AdjacencyListSe
 
 {% include slides.html id="1B-faTKm7eIkpvoaetXutsyoSEk-heidbFpC0dJcjcZw" aspect_ratio="16/9" %}
 
-{: .deliverable }
-Explain the part of the `GenerativeSeamFinder` class that you're most proud of programming.
-
 ### ToposortDAGSolver
 
 A graph algorithm that implements `ShortestPathSolver`. Finds a shortest paths tree in a directed acyclic graph using topological sorting.
@@ -161,9 +158,6 @@ Once we've generated this table, we can use it to find the shortest path.
 1. Follow the path back to the left by adding the _y_-value of each predecessor to the result.
 1. Finally, to get the coordinates from left to right, `Collections.reverse` the result.
 
-{: .deliverable }
-Explain the part of the `DynamicProgrammingSeamFinder` class that you're most proud of programming.
-
 ## Analyze and compare
 
 ### Affordance analysis
@@ -178,9 +172,6 @@ However, some images don't work well with seam carving for content-aware image r
 
 ![Cat picture mangled by seam carving]({{ site.baseurl }}{% link assets/images/meow.webp %})
 
-{: .deliverable }
-Identify affordances of dual-gradient energy seam carving. Then, evaluate the affordances by applying the three value-sensitive design principles. Describe (or select) some example images that we should be particularly concerned about when evaluating an pixel-based seam carving algorithm.
-
 ### Experimental analysis
 
 Run the provided `RuntimeExperiments` to compare the real-world runtime of each implementation. For each implementation, `RuntimeExperiments` constructs an empty instance and records the number of seconds to `findHorizontal` through randomly-generated pictures of increasing resolution.
@@ -192,9 +183,6 @@ Copy-paste the text into plotting software such as [Desmos](https://www.desmos.c
 - `GenerativeSeamFinder(DijkstraSolver::new)`
 - `GenerativeSeamFinder(ToposortDAGSolver::new)`
 - `DynamicProgrammingSeamFinder()`
-
-{: .deliverable }
-Compare the runtimes across all 5 approaches. Are certain algorithms faster than others? What might explain the differences? How does the choice of `SeamFinder` and the choice of `ShortestPathSolver` affect the runtime? Briefly speculate possible implications for algorithm design.
 
 ## Above and beyond
 
