@@ -16,7 +16,7 @@ title: Linear Collections
 : {% include learning_objectives.md lesson="Linked Nodes" %}
 
 7/12
-: [**Asymptotic Analysis**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#asymptotic-analysis)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/3){: .label .btn-purple }[**Asymptotic Analysis**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#asymptotic-analysis)
   : [Slides]({% include direct.liquid post='2023-07-12-asymptotic-analysis' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-12-asymptotic-analysis-marked' %})
 : {% include learning_objectives.md lesson="Asymptotic Analysis" %}
