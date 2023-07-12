@@ -40,7 +40,7 @@ We are comfortable doing this because each submission in this class comes in the
 
 Satisfactory completion of the project requires a **video-recorded individual presentation that addresses all the green callouts** and your **implementations**. Your video presentation should additionally meet the following requirements:
 
-- Your presentation should not be much longer than 6 minutes and should include your voiceover. (Your video is appreciated but not necessary.)
+- Your presentation should not be much longer than 7 minutes and should include your voiceover. (Your video is appreciated but not necessary.)
 - Your presentation should include some kind of visually-organizing structure, such as slides or a document.
 - After submitting to Canvas, add a submission comment linking to your slides or document.
 
