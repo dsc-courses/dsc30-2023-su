@@ -26,3 +26,4 @@ title: Linear Collections
   : [Slides]({% include direct.liquid post='2023-07-13-iterative-sorts' %})
 : {% include learning_objectives.md lesson="Iterative Sorts" %}
 : **D1**{: .label .label-purple }**Linear Collections**
+  : [Slides]({% include direct.liquid post='2023-07-13-linear-collections-slides' %})
