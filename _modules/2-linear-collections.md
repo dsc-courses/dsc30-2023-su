@@ -22,7 +22,7 @@ title: Linear Collections
 : **P1**{: .label .label-yellow }[**Deques**]({{ site.baseurl }}{% link projects/deques.md %}) due 7/19
 
 7/13
-: [**Iterative Sorts**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#iterative-sorts)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/4){: .label .btn-purple }[**Iterative Sorts**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#iterative-sorts)
   : [Slides]({% include direct.liquid post='2023-07-13-iterative-sorts' %})
 : {% include learning_objectives.md lesson="Iterative Sorts" %}
 : **D1**{: .label .label-purple }**Linear Collections**
