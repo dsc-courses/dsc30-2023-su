@@ -25,5 +25,5 @@ title: Linear Collections
 : [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/4){: .label .btn-purple }[**Iterative Sorts**]({{ site.baseurl }}{% link lessons/linear-collections.md %}#iterative-sorts)
   : [Slides]({% include direct.liquid post='2023-07-13-iterative-sorts' %})
 : {% include learning_objectives.md lesson="Iterative Sorts" %}
-: **D1**{: .label .label-purple }**Linear Collections**
+: [**<small>▶</small> D1**](https://ucsd.zoom.us/rec/share/NF4qbGoY6vxTd8yCAKXGwaneuL7qeC6jLd-FqnJxRGUVPb9AdiLkl_23x4k9hkB7.GiTV2xCw3O2byukp){: .label .btn-purple }**Linear Collections**
   : [Slides]({% include direct.liquid post='2023-07-13-linear-collections-slides' %})
