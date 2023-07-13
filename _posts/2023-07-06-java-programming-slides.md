@@ -1,5 +1,5 @@
 ---
-title: &title DSC 30 Summer Discussion Session 1
+title: &title Discussion Section 1 Slides
 description: *title
 summary: *title
 redirect_to: &redirect https://docs.google.com/presentation/d/1Ezj_ZEM9SoCoPG83zonKhcPNaWauP-Yvl07qxgkZL6U/edit?usp=sharing
