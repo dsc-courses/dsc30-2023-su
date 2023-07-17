@@ -4,7 +4,8 @@ title: Sorting and Searching
 
 7/17
 : [**Recursive Sorts**]({{ site.baseurl }}{% link lessons/sorting-and-searching.md %}#recursive-sorts)
-  : [Slides]({% include direct.liquid post='2023-07-17-recursive-sorts' %})
+  : [Slides]({% include direct.liquid post='2023-07-17-recursive-sorts' %}) &middot;
+    [Marked]({% include direct.liquid post='2023-07-17-recursive-sorts-marked' %})
 : {% include learning_objectives.md lesson="Recursive Sorts" %}
 : **A1**{: .label .label-green }[**Assessment 1**]({{ site.baseurl }}{% link assessments/1.md %}) due 7/20
 
