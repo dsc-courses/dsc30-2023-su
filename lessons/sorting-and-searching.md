@@ -177,7 +177,7 @@ A sorted array enables logarithmic-time algorithms like binary search. To determ
 Let's say we wanted to implement the autocomplete feature in Triton Maps. One approach is to implement a `BinarySearchAutocomplete` data type.
 
 Representation
-: Potential search results are stored in a sorted array. In Triton Maps, this contains the names of all the places near the UW Seattle campus.
+: Potential search results are stored in a sorted array. In Triton Maps, this contains the names of all the places near campus.
 
 Functionality
 : The `addAll` method adds new elements to the data type. After the elements are added, the entire array is re-sorted to maintain the sorted representation.
