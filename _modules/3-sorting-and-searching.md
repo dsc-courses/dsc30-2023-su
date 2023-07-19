@@ -10,7 +10,7 @@ title: Sorting and Searching
 : **A1**{: .label .label-green }[**Assessment 1**]({{ site.baseurl }}{% link assessments/1.md %}) due 7/20
 
 7/18
-: [**Search Trees**]({{ site.baseurl }}{% link lessons/sorting-and-searching.md %}#search-trees)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/6){: .label .btn-purple }[**Search Trees**]({{ site.baseurl }}{% link lessons/sorting-and-searching.md %}#search-trees)
   : [Slides]({% include direct.liquid post='2023-07-18-search-trees' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-18-search-trees-marked' %}
 : {% include learning_objectives.md lesson="Search Trees" %}
