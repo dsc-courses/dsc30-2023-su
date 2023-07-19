@@ -17,7 +17,8 @@ title: Sorting and Searching
 
 7/19
 : [**Tries**]({{ site.baseurl }}{% link lessons/sorting-and-searching.md %}#tries)
-  : [Slides]({% include direct.liquid post='2023-07-19-tries' %})
+  : [Slides]({% include direct.liquid post='2023-07-19-tries' %}) &middot;
+    [Marked]({% include direct.liquid post='2023-07-19-tries-marked' %})
 : {% include learning_objectives.md lesson="Tries" %}
 : **P2**{: .label .label-yellow }[**Autocomplete**]({{ site.baseurl }}{% link projects/autocomplete.md %}) due 7/26
 
