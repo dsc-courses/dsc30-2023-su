@@ -16,7 +16,7 @@ title: Sorting and Searching
 : {% include learning_objectives.md lesson="Search Trees" %}
 
 7/19
-: [**Tries**]({{ site.baseurl }}{% link lessons/sorting-and-searching.md %}#tries)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/7){: .label .btn-purple }[**Tries**]({{ site.baseurl }}{% link lessons/sorting-and-searching.md %}#tries)
   : [Slides]({% include direct.liquid post='2023-07-19-tries' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-19-tries-marked' %})
 : {% include learning_objectives.md lesson="Tries" %}
