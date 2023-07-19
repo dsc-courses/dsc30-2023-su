@@ -11,7 +11,8 @@ title: Sorting and Searching
 
 7/18
 : [**Search Trees**]({{ site.baseurl }}{% link lessons/sorting-and-searching.md %}#search-trees)
-  : [Slides]({% include direct.liquid post='2023-07-18-search-trees' %})
+  : [Slides]({% include direct.liquid post='2023-07-18-search-trees' %}) &middot;
+    [Marked]({% include direct.liquid post='2023-07-18-search-trees-marked' %}
 : {% include learning_objectives.md lesson="Search Trees" %}
 
 7/19
