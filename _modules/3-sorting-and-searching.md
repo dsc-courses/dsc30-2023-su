@@ -23,7 +23,7 @@ title: Sorting and Searching
 : **P2**{: .label .label-yellow }[**Autocomplete**]({{ site.baseurl }}{% link projects/autocomplete.md %}) due 7/26
 
 7/20
-: [**2-3 Trees**]({{ site.baseurl }}{% link lessons/sorting-and-searching.md %}#2-3-trees)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/8){: .label .btn-purple }[**2-3 Trees**]({{ site.baseurl }}{% link lessons/sorting-and-searching.md %}#2-3-trees)
   : [Slides]({% include direct.liquid post='2023-07-20-2-3-trees' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-20-2-3-trees-marked' %})
 : {% include learning_objectives.md lesson="2-3 Trees" %}
