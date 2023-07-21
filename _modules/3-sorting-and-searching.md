@@ -28,3 +28,4 @@ title: Sorting and Searching
     [Marked]({% include direct.liquid post='2023-07-20-2-3-trees-marked' %})
 : {% include learning_objectives.md lesson="2-3 Trees" %}
 : **D2**{: .label .label-purple }**Sorting and Searching**
+  : [Slides]({% include direct.liquid post='2023-07-20-sorting-and-searching' %})
