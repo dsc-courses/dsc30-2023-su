@@ -3,7 +3,7 @@ title: Associative Collections
 ---
 
 7/24
-: [**Left-Leaning Red-Black Trees**]({{ site.baseurl }}{% link lessons/associative-collections.md %}#left-leaning-red-black-trees)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/9){: .label .btn-purple }[**Left-Leaning Red-Black Trees**]({{ site.baseurl }}{% link lessons/associative-collections.md %}#left-leaning-red-black-trees)
   : [Slides]({% include direct.liquid post='2023-07-24-left-leaning-red-black-trees' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-24-left-leaning-red-black-trees-marked' %})
 : {% include learning_objectives.md lesson="Left-Leaning Red-Black Trees" %}
