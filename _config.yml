@@ -46,6 +46,8 @@ callouts:
   deliverable:
     title: Deliverable
     color: green
+  question:
+    color: grey-lt
 
 just_the_docs:
   collections:

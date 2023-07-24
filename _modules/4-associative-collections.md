@@ -25,3 +25,4 @@ title: Associative Collections
   : [Slides]({% include direct.liquid post='2023-07-27-affordance-analysis' %})
 : {% include learning_objectives.md lesson="Affordance Analysis" %}
 : **D3**{: .label .label-purple }**Associative Collections**
+: **PF**{: .label .label-red }[**Interview Questions**]({{ site.baseurl }}{% link assessments/interview-questions.md %}) due 8/4
