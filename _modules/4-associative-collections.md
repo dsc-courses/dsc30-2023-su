@@ -4,7 +4,8 @@ title: Associative Collections
 
 7/24
 : [**Left-Leaning Red-Black Trees**]({{ site.baseurl }}{% link lessons/associative-collections.md %}#left-leaning-red-black-trees)
-  : [Slides]({% include direct.liquid post='2023-07-24-left-leaning-red-black-trees' %})
+  : [Slides]({% include direct.liquid post='2023-07-24-left-leaning-red-black-trees' %}) &middot;
+    [Marked]({% include direct.liquid post='2023-07-24-left-leaning-red-black-trees-marked' %})
 : {% include learning_objectives.md lesson="Left-Leaning Red-Black Trees" %}
 : **A2**{: .label .label-green }[**Assessment 2**]({{ site.baseurl }}{% link assessments/2.md %}) due 7/27
 
