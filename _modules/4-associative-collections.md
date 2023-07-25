@@ -11,7 +11,8 @@ title: Associative Collections
 
 7/25
 : [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/10){: .label .btn-purple }[**Binary Heaps**]({{ site.baseurl }}{% link lessons/associative-collections.md %}#binary-heaps)
-  : [Slides]({% include direct.liquid post='2023-07-25-binary-heaps' %})
+  : [Slides]({% include direct.liquid post='2023-07-25-binary-heaps' %}) &middot;
+    [Marked]({% include direct.liquid post='2023-07-25-binary-heaps-marked' %})
 : {% include learning_objectives.md lesson="Binary Heaps" %}
 
 7/26
