@@ -17,7 +17,8 @@ title: Associative Collections
 
 7/26
 : [**Hash Tables**]({{ site.baseurl }}{% link lessons/associative-collections.md %}#hash-tables)
-  : [Slides]({% include direct.liquid post='2023-07-26-hash-tables' %})
+  : [Slides]({% include direct.liquid post='2023-07-26-hash-tables' %}) &middot;
+    [Marked]({% include direct.liquid post='2023-07-26-hash-tables-marked' %})
 : {% include learning_objectives.md lesson="Hash Tables" %}
 : **P3**{: .label .label-yellow }[**Priority Queues**]({{ site.baseurl }}{% link projects/priority-queues.md %}) due 8/2
 
