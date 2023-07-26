@@ -16,7 +16,7 @@ title: Associative Collections
 : {% include learning_objectives.md lesson="Binary Heaps" %}
 
 7/26
-: [**Hash Tables**]({{ site.baseurl }}{% link lessons/associative-collections.md %}#hash-tables)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/11){: .label .btn-purple }[**Hash Tables**]({{ site.baseurl }}{% link lessons/associative-collections.md %}#hash-tables)
   : [Slides]({% include direct.liquid post='2023-07-26-hash-tables' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-26-hash-tables-marked' %})
 : {% include learning_objectives.md lesson="Hash Tables" %}
