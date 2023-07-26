@@ -368,7 +368,7 @@ Technologies that benefit some people can harm others. Batya Friedman, a Profess
 {% include youtube.html id="6HPgN050DIw" start="1897" end="2127" aspect_ratio="16/9" %}
 
 {: .hint }
-_SafetyNet_ is not just a hypothetical either. David Ingram and Cyrus Farivar [write for NBC News](https://www.nbcnews.com/tech/tech-news/citizen-public-safety-app-pushing-surveillance-boundaries-rcna1058): "Inside Citizen: The public safety app pushing surveillance boundaries." It wouldn't be hard to imagine a future where [UW Alert](https://www.washington.edu/safety/alert/) partners with a tech company to create an app with functions similar to _SafetyNet_.
+_SafetyNet_ is not just a hypothetical either. David Ingram and Cyrus Farivar [write for NBC News](https://www.nbcnews.com/tech/tech-news/citizen-public-safety-app-pushing-surveillance-boundaries-rcna1058): "Inside Citizen: The public safety app pushing surveillance boundaries." It wouldn't be hard to imagine a future where [Triton Alert](https://students.ucsd.edu/campus-services/campus-safety/triton-alert.html) partners with a tech company to create an app with functions similar to _SafetyNet_.
 
 This _SafetyNet_ value scenario imagines what the future could hold for different peoples and how the introduction of a technology changes how people behave. Batya's value scenario highlights several different perspectives in evaluating a system by:
 
