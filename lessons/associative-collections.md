@@ -321,7 +321,7 @@ To make good on our promise of a worst case constant time data structure for set
 
 In the previous module focusing on implementing tree data structures and studying sorting algorithms, we learned methods for runtime analysis in order to help us evaluate the quality of an idea. The goal of runtime analysis was to produce a (1) _predictive_ and (2) _easy-to-compare_ description of the running time of an algorithm.
 
-For the remaining half of the course, we'll be studying a different category of data structures and algorithms called **graphs**. Unlike the study of tree data structures and sorting algorithms that focused on abstract inputs, the study of graph data structures and graph algorithms is often closely coupled with discussions about real-world data and problems. Runtime analysis will remain an important tool, but we also need methods of analysis to address questions at the intersection of algorithm design and the social responsibility that comes with it.
+In the next module, we'll be studying a different category of data structures and algorithms called **graphs**. Unlike the study of tree data structures and sorting algorithms that focused on abstract inputs, the study of graph data structures and graph algorithms is often closely coupled with discussions about real-world data and problems. Runtime analysis will remain an important tool, but we also need methods of analysis to address questions at the intersection of algorithm design and the social responsibility that comes with it.
 
 **Affordance analysis** is a method of analysis that measures which actions and outcomes that an abstraction makes more likely (affordances), and then evaluates the effects of these affordances on people and power hierarchies.
 
