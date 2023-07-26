@@ -122,7 +122,7 @@ email.addEventListener("input", event => {
         };
         const chance = new Chance(seed);
         const shuffled = chance.shuffle(questions);
-        for (const question of shuffled.slice(0, 3).sort((x, y) => x - y)) {
+        for (const question of shuffled.slice(0, 2).sort((x, y) => x - y)) {
             question.classList.remove("d-none");
         };
     };
