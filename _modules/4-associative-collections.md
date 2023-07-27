@@ -23,7 +23,7 @@ title: Associative Collections
 : **P3**{: .label .label-yellow }[**Priority Queues**]({{ site.baseurl }}{% link projects/priority-queues.md %}) due 8/2
 
 7/27
-: [**Affordance Analysis**]({{ site.baseurl }}{% link lessons/associative-collections.md %}#affordance-analysis)
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/12){: .label .btn-purple }[**Affordance Analysis**]({{ site.baseurl }}{% link lessons/associative-collections.md %}#affordance-analysis)
   : [Slides]({% include direct.liquid post='2023-07-27-affordance-analysis' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-27-affordance-analysis-marked' %})
 : {% include learning_objectives.md lesson="Affordance Analysis" %}
