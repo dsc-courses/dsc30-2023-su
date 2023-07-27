@@ -223,7 +223,7 @@ For all array-backed data structures, ignore the time it would take to resize th
 `HashSet` and `HashMap` are implemented using resizing separate-chaining hash tables where the number of buckets is always similar to the size. Assume that the hash function evenly distributes elements across the underlying array. The Java implementations include a further optimization.
 
 Tree bucket optimization
-: When the [size of a bucket exceeds 8 elements](https://github.com/AdoptOpenJDK/openjdk-jdk11/blob/19fb8f93c59dfd791f62d41f332db9e306bc1422/src/java.base/share/classes/java/util/HashMap.java#L143-L231), the separate chain is automatically converted from a linked list to a red-black tree.
+: When the [size of a bucket exceeds 8 elements](https://github.com/AdoptOpenJDK/openjdk-jdk/blob/jdk-17%2B24/src/java.base/share/classes/java/util/HashMap.java#L147-L181), the separate chain is automatically converted from a linked list to a red-black tree.
 
 {: .deliverable }
 Explain the impact of tree bucket optimization assuming an even distribution of elements across the underlying array. Does the tree bucket optimization help, hurt, or not affect the asymptotic analysis given our assumptions?
