@@ -96,7 +96,7 @@ Affordance Analysis:
     - Identify the affordances of a program abstraction such as a class or interface.
     - Evaluate affordances by applying the 3 value-sensitive design principles.
 
-Graph Traversals:
+Graphs:
   Objectives:
     - Trace and explain each data structure in BFS and DFS graph traversal.
     - Analyze the runtime of a graph algorithm in terms of vertices and edges.
