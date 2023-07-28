@@ -10,6 +10,7 @@ title: Portfolio
 
 8/1
 : **System Design**
+: {% include learning_objectives.md lesson="System Design" %}
 
 8/2
 : **Iterative Design**
