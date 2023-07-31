@@ -17,7 +17,7 @@ chance: yes
 <input id="email" type="email" size="15" placeholder="email@ucsd.edu" class="text-beta p-2 mb-2" />
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Add words.
 > 1. Return a list of all the unique words in alphabetical order.
@@ -26,7 +26,7 @@ chance: yes
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the total number of words. If helpful, you can choose your own variable to describe the number of unique words.
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Add "observed" words.
 > 1. Add "known" words.
@@ -35,7 +35,7 @@ chance: yes
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the number of "observed" words and _M_ is the number of "known" words.
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Add user reviews, where a user review has a name, a date, and a rating.
 > 1. Return the reviews that fall between a given start and end date range.
@@ -44,7 +44,7 @@ chance: yes
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the total number of reviews and _M_ is the number of reviews returned by the date range query.
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Add numbers.
 > 1. Return the value that is closest to the median of all added values.
@@ -53,7 +53,7 @@ chance: yes
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the size of the data type.
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Add places, where a place consists of an (_x_, _y_) coordinate pair.
 > 1. Return the closest place to a given _x_ coordinate.
@@ -62,7 +62,7 @@ chance: yes
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the size of the data type.
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Add numbers.
 > 1. Remove the minimum number.
@@ -71,7 +71,7 @@ chance: yes
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the size of the data type.
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Add an element to the front (index 0), which increases the index of every other element.
 > 1. Return the element at index _i_.
@@ -80,7 +80,7 @@ chance: yes
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the size of the data type.
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Add words.
 > 1. Return the most frequent word.
@@ -89,7 +89,7 @@ chance: yes
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the size of the data type.
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Add a post written by a given user.
 > 1. Undo the last post written by a given user.
@@ -98,7 +98,7 @@ chance: yes
 > For your most efficicent approach, give a worst-case asymptotic analysis for all methods where _N_ is the number of posts and _M_ is the number of users.
 
 {: .question .d-none }
-> Describe 3 approaches to design a data type that can:
+> Describe 2 approaches to design a data type that can:
 >
 > 1. Cast a vote for a candidate.
 > 1. Return the number of votes for a given candidate.
