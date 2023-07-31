@@ -3,7 +3,7 @@ title: Portfolio
 ---
 
 7/31
-: [**Graphs**]({{ site.baseurl }}{% link lessons/graphs.md %})
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/13){: .label .btn-purple }[**Graphs**]({{ site.baseurl }}{% link lessons/graphs.md %})
   : [Slides]({% include direct.liquid post='2023-07-31-graphs' %}) &middot;
     [Marked]({% include direct.liquid post='2023-07-31-graphs-marked' %})
 : {% include learning_objectives.md lesson="Graphs" %}
