@@ -11,6 +11,7 @@ title: Portfolio
 
 8/1
 : [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/14){: .label .btn-purple }**System Design**
+  : [Notes]({% include direct.liquid post='2023-08-01-system-design-notes' %})
 : {% include learning_objectives.md lesson="System Design" %}
 
 8/2
