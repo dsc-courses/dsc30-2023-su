@@ -10,7 +10,7 @@ title: Portfolio
 : **A3**{: .label .label-green }[**Assessment 3**]({{ site.baseurl }}{% link assessments/3.md %}) due 8/3
 
 8/1
-: **System Design**
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/14){: .label .btn-purple }**System Design**
 : {% include learning_objectives.md lesson="System Design" %}
 
 8/2
