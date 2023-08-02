@@ -24,6 +24,10 @@ chance: yes
 > 1. Return the number of times a given word has been added.
 >
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the total number of words. If helpful, you can choose your own variable to describe the number of unique words.
+>
+> Finally, implement your most efficient approach in the code challenge.
+>
+> [WordCounter](https://edstem.org/us/courses/41493/lessons/71066/slides/383677){: .btn .btn-purple }
 
 {: .question .d-none }
 > Describe 2 approaches to design a data type that can:
@@ -33,6 +37,10 @@ chance: yes
 > 1. Return how many "observed" words are present in "known".
 >
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the number of "observed" words and _M_ is the number of "known" words.
+>
+> Finally, implement your most efficient approach in the code challenge.
+>
+> [WordTracker](https://edstem.org/us/courses/41493/lessons/71066/slides/383680){: .btn .btn-purple }
 
 {: .question .d-none }
 > Describe 2 approaches to design a data type that can:
@@ -42,6 +50,10 @@ chance: yes
 > 1. Return the closest place to a given _y_ coordinate.
 >
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the size of the data type.
+>
+> Finally, implement your most efficient approach in the code challenge.
+>
+> [PlacesDatabase](https://edstem.org/us/courses/41493/lessons/71066/slides/383701){: .btn .btn-purple }
 
 {: .question .d-none }
 > Describe 2 approaches to design a data type that can:
@@ -50,7 +62,11 @@ chance: yes
 > 1. Remove the minimum number.
 > 1. Remove the maximum number.
 >
-> For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the size of the data type.
+> For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the size of the data type. You may assume all numbers are unique.
+>
+> Finally, implement your most efficient approach in the code challenge.
+>
+> [MinMaxPQ](https://edstem.org/us/courses/41493/lessons/71066/slides/383621){: .btn .btn-purple }
 
 {: .question .d-none }
 > Describe 2 approaches to design a data type that can:
@@ -60,6 +76,10 @@ chance: yes
 > 1. Return the candidate with the greatest number of votes.
 >
 > For your most efficient approach, give a worst-case asymptotic analysis for all methods where _N_ is the number of votes and _M_ is the number of candidates.
+>
+> Finally, implement your most efficient approach in the code challenge.
+>
+> [VotingSystem](https://edstem.org/us/courses/41493/lessons/71066/slides/383700){: .btn .btn-purple }
 
 <script>
 const email = document.getElementById("email");
