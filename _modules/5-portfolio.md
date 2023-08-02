@@ -15,7 +15,7 @@ title: Portfolio
 : {% include learning_objectives.md lesson="System Design" %}
 
 8/2
-: **Iterative Design**
+: [**<small>▶</small>**](https://podcast.ucsd.edu/watch/s123/dsc30_a00/15){: .label .btn-purple }**Iterative Design**
 : **P4**{: .label .label-yellow }[**Shortest Paths**]({{ site.baseurl }}{% link projects/shortest-paths.md %}) optional
 
 8/3
